@@ -4,7 +4,7 @@
       "id": "ab13ed5c-e46a-4f2b-ba97-35ca68b5b403",
       "name": "test",
       "type": "Template",
-      "command": false,
+      "command": true,
       "templatePath": "Src/Temp/DailyNotes.md",
       "fileNameFormat": {
         "enabled": true,
@@ -30,9 +30,9 @@
     },
     {
       "id": "d9b8681a-3021-4892-aac3-a1e7604fb754",
-      "name": "write tutorial",
+      "name": "Capture Write Papers After Reading",
       "type": "Template",
-      "command": false,
+      "command": true,
       "templatePath": "Src/Temp/论文阅读模板.md",
       "fileNameFormat": {
         "enabled": true,
@@ -40,9 +40,7 @@
       },
       "folder": {
         "enabled": true,
-        "folders": [
-          "Pub/Tutorial/Unsort"
-        ],
+        "folders": [],
         "chooseWhenCreatingNote": false,
         "createInSameFolderAsActiveFile": false
       },
@@ -54,6 +52,74 @@
         "focus": true
       },
       "openFile": true,
+      "openFileInMode": "default"
+    },
+    {
+      "id": "088275e8-2f39-41be-9d06-7c9a10fc5337",
+      "name": "Capture ToDo",
+      "type": "Capture",
+      "command": true,
+      "appendLink": false,
+      "captureTo": "Daily/Plan/Todo.md",
+      "captureToActiveFile": false,
+      "createFileIfItDoesntExist": {
+        "enabled": false,
+        "createWithTemplate": false,
+        "template": ""
+      },
+      "format": {
+        "enabled": true,
+        "format": "- [ ] {{value}} #todo"
+      },
+      "insertAfter": {
+        "enabled": true,
+        "after": "# Unsort Todo",
+        "insertAtEnd": false,
+        "createIfNotFound": false,
+        "createIfNotFoundLocation": "top"
+      },
+      "prepend": true,
+      "task": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": false,
+      "openFileInMode": "default"
+    },
+    {
+      "id": "83bba01b-ee12-4a9c-abb6-6f2f6f039187",
+      "name": "Capture ToWrite",
+      "type": "Capture",
+      "command": true,
+      "appendLink": false,
+      "captureTo": "Daily/Plan/Todo.md",
+      "captureToActiveFile": false,
+      "createFileIfItDoesntExist": {
+        "enabled": false,
+        "createWithTemplate": false,
+        "template": ""
+      },
+      "format": {
+        "enabled": true,
+        "format": "- [ ] {{value}} #towrite"
+      },
+      "insertAfter": {
+        "enabled": true,
+        "after": "# Unsort ToWrite",
+        "insertAtEnd": true,
+        "createIfNotFound": false,
+        "createIfNotFoundLocation": "top"
+      },
+      "prepend": false,
+      "task": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": false,
       "openFileInMode": "default"
     }
   ],
