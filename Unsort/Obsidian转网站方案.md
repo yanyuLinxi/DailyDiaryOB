@@ -8,3 +8,7 @@ quartz+obsidian地址：https://forum-zh.obsidian.md/t/topic/8852
 - [ ] 同步obsidian设置
 - [ ] 同步仓库
 - [ ] 设置图床
+# 如何使用github进行同步
+1. 在仓库根目录初始化git
+2. 使用git连接上远程仓库
+3. 在obsidian配置obsidian-git插件。插件会自动进行commit，并进行推送。
