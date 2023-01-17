@@ -123,6 +123,34 @@
       },
       "openFile": false,
       "openFileInMode": "default"
+    },
+    {
+      "id": "5b89e317-b80f-49b0-8df0-a2208a314973",
+      "name": "Capture Write Tutorial",
+      "type": "Template",
+      "command": true,
+      "templatePath": "Src/Temp/教程写作模板.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{value}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "Pub/Tutorial/Unsort"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "incrementFileName": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default"
     }
   ],
   "macros": [],

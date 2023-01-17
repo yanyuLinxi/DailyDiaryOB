@@ -4,17 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "5c09c6ce7c0a8727",
+        "id": "4efb53543677576c",
         "type": "tabs",
         "children": [
           {
-            "id": "d79ec8121459e12e",
+            "id": "cb5790a7a7f6992a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/Plan/ToDo.md",
+                "file": "Unsort/快捷键记录.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
@@ -78,14 +79,22 @@
       {
         "id": "a65859fc7c8516bb",
         "type": "tabs",
+        "dimension": 38.51851851851852,
         "children": [
+          {
+            "id": "28482bc8ba787109",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
           {
             "id": "65e64109ee81c40c",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/Plan/ToDo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +111,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/Plan/ToDo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,19 +132,16 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Daily/Plan/ToDo.md"
-              }
-            }
-          },
-          {
-            "id": "28482bc8ba787109",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
               "state": {}
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "d60f95569d51200c",
+        "type": "tabs",
+        "dimension": 61.48148148148148,
+        "children": [
           {
             "id": "9ee4aea1b5ba5ce7",
             "type": "leaf",
@@ -144,13 +149,21 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "3cd3f9596e59065f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 316.5,
-    "collapsed": true
+    "width": 417.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -160,20 +173,22 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false,
+      "workspaces:管理工作区布局": false
     }
   },
-  "active": "d79ec8121459e12e",
+  "active": "3cd3f9596e59065f",
   "lastOpenFiles": [
-    "Unsort/obsidian基础教程.md",
-    "Unsort/Obsidian转网站方案.md",
     "Unsort/快捷键记录.md",
-    "Unsort/待做清单.md",
+    "Unsort/Obsidian转网站方案.md",
+    "2023-01-17.md",
+    "Src/Temp/教程写作模板.md",
+    "Src/Temp/DailyNotes.md",
+    "Src/Temp/论文阅读模板.md",
     "Daily/Plan/ToDo.md",
-    "Unsort/待解决问题.md",
-    "Pub/Papers/第一篇论文测试.md",
-    "第一篇论文测试.md",
-    "Daily/Plan/未命名.md",
-    "Pub/Tutorial/Unsort/huggingface教程.md"
+    "Daily/Plan/Write.md",
+    "Pub/Tutorial/Unsort/huggingface教程系列写作模板.md",
+    "Pub/Tutorial/Unsort/huggingface教程系列写作模板1.md"
   ]
 }
