@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2b82b0707df4878e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unsort/待解决问题.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unsort/Obsidian转网站方案.md",
+                "file": "Unsort/待解决问题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unsort/Obsidian转网站方案.md",
+                "file": "Unsort/待解决问题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unsort/Obsidian转网站方案.md"
+                "file": "Unsort/待解决问题.md"
               }
             }
           },
@@ -154,10 +167,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "00d890ca8d98a53c",
+  "active": "2b82b0707df4878e",
   "lastOpenFiles": [
-    "Unsort/obsidian基础教程.md",
     "Unsort/Obsidian转网站方案.md",
+    "Unsort/obsidian基础教程.md",
     "Obsidian入门教程.md",
     "后缀文件名.md",
     "Pics/Pasted image 20230117144414.png",
