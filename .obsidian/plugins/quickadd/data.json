@@ -40,7 +40,9 @@
       },
       "folder": {
         "enabled": true,
-        "folders": [],
+        "folders": [
+          "Pub/Papers"
+        ],
         "chooseWhenCreatingNote": false,
         "createInSameFolderAsActiveFile": false
       },
@@ -60,7 +62,7 @@
       "type": "Capture",
       "command": true,
       "appendLink": false,
-      "captureTo": "Daily/Plan/Todo.md",
+      "captureTo": "Daily/Plan/ToDo.md",
       "captureToActiveFile": false,
       "createFileIfItDoesntExist": {
         "enabled": false,
@@ -73,12 +75,12 @@
       },
       "insertAfter": {
         "enabled": true,
-        "after": "# Unsort Todo",
+        "after": "# Unsort ToDo",
         "insertAtEnd": false,
         "createIfNotFound": false,
         "createIfNotFoundLocation": "top"
       },
-      "prepend": true,
+      "prepend": false,
       "task": false,
       "openFileInNewTab": {
         "enabled": false,
@@ -94,7 +96,7 @@
       "type": "Capture",
       "command": true,
       "appendLink": false,
-      "captureTo": "Daily/Plan/Todo.md",
+      "captureTo": "Daily/Plan/ToDo.md",
       "captureToActiveFile": false,
       "createFileIfItDoesntExist": {
         "enabled": false,
@@ -108,7 +110,7 @@
       "insertAfter": {
         "enabled": true,
         "after": "# Unsort ToWrite",
-        "insertAtEnd": true,
+        "insertAtEnd": false,
         "createIfNotFound": false,
         "createIfNotFoundLocation": "top"
       },

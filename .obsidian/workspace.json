@@ -8,30 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fdfaeefc760beeeb",
+            "id": "d79ec8121459e12e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unsort/待做清单.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "9b5bc26956772633",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "dc41e54d5164d989",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily/Plan/Todo.md",
+                "file": "Daily/Plan/ToDo.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unsort/待做清单.md",
+                "file": "Daily/Plan/ToDo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unsort/待做清单.md",
+                "file": "Daily/Plan/ToDo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unsort/待做清单.md"
+                "file": "Daily/Plan/ToDo.md"
               }
             }
           },
@@ -163,8 +145,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -182,17 +163,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fdfaeefc760beeeb",
+  "active": "d79ec8121459e12e",
   "lastOpenFiles": [
-    "Daily/Plan/Todo.md",
-    "Unsort/待做清单.md",
-    "Daily/Plan/未命名.md",
-    "Pub/Tutorial/Unsort/huggingface教程.md",
-    "Unsort/待解决问题.md",
-    "Src/Temp/论文阅读模板.md",
-    "Unsort/markmind.md",
-    "Src/Temp/DailyNotes.md",
     "Unsort/obsidian基础教程.md",
-    "Unsort/Obsidian转网站方案.md"
+    "Unsort/Obsidian转网站方案.md",
+    "Unsort/快捷键记录.md",
+    "Unsort/待做清单.md",
+    "Daily/Plan/ToDo.md",
+    "Unsort/待解决问题.md",
+    "Pub/Papers/第一篇论文测试.md",
+    "第一篇论文测试.md",
+    "Daily/Plan/未命名.md",
+    "Pub/Tutorial/Unsort/huggingface教程.md"
   ]
 }
