@@ -43,3 +43,9 @@ def main():
 阿斯蒂芬2,^[外部注脚没法用]
 
 $$a=a+b$$
+
+# 其他插件列表
+
+[官方推荐插件列表](https://publish.obsidian.md/help-zh/%E6%8F%92%E4%BB%B6/%E6%8F%92%E4%BB%B6%E5%88%97%E8%A1%A8)
+[程序猿推荐插件列表bilibili](https://www.bilibili.com/video/BV1fw411f7xy/?vd_source=64171f856db920efec690ac6c00f5cee)
+

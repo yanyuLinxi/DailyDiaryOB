@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unsort/快捷键记录.md",
+                "file": "Unsort/obsidian基础教程.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -90,11 +90,30 @@
             }
           },
           {
+            "id": "dbd043839d655a06",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Unsort/obsidian基础教程.md"
+              }
+            }
+          },
+          {
+            "id": "9ee4aea1b5ba5ce7",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
             "id": "65e64109ee81c40c",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Unsort/obsidian基础教程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Unsort/obsidian基础教程.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,14 +146,6 @@
                 "useHierarchy": true
               }
             }
-          },
-          {
-            "id": "dbd043839d655a06",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {}
-            }
           }
         ]
       },
@@ -143,23 +155,41 @@
         "dimension": 61.48148148148148,
         "children": [
           {
-            "id": "9ee4aea1b5ba5ce7",
+            "id": "a1e3bd5b5b39e85f",
             "type": "leaf",
             "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          },
-          {
-            "id": "3cd3f9596e59065f",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
+              "type": "localgraph",
+              "state": {
+                "file": "Unsort/obsidian基础教程.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": true
+                }
+              }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -178,9 +208,10 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "3cd3f9596e59065f",
+  "active": "cb5790a7a7f6992a",
   "lastOpenFiles": [
     "Unsort/快捷键记录.md",
+    "Unsort/obsidian基础教程.md",
     "Unsort/Obsidian转网站方案.md",
     "2023-01-17.md",
     "Src/Temp/教程写作模板.md",
@@ -188,7 +219,6 @@
     "Src/Temp/论文阅读模板.md",
     "Daily/Plan/ToDo.md",
     "Daily/Plan/Write.md",
-    "Pub/Tutorial/Unsort/huggingface教程系列写作模板.md",
-    "Pub/Tutorial/Unsort/huggingface教程系列写作模板1.md"
+    "Pub/Tutorial/Unsort/huggingface教程系列写作模板.md"
   ]
 }
