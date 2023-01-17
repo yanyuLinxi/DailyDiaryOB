@@ -4,43 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "ca89459cdb94124d",
+        "id": "5c09c6ce7c0a8727",
         "type": "tabs",
         "children": [
           {
-            "id": "34e29ed11e956570",
+            "id": "fdfaeefc760beeeb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Src/Temp/论文阅读模板.md",
+                "file": "Unsort/待做清单.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "5c3c6a7d828810cd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Unsort/markmind.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9d15e6118ed43a84",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unsort/markmind.md",
+                "file": "Unsort/待做清单.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unsort/markmind.md",
+                "file": "Unsort/待做清单.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unsort/markmind.md"
+                "file": "Unsort/待做清单.md"
               }
             }
           },
@@ -157,13 +136,22 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "9ee4aea1b5ba5ce7",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
         "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 316.5
+    "width": 316.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,17 +164,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5c3c6a7d828810cd",
+  "active": "fdfaeefc760beeeb",
   "lastOpenFiles": [
     "Src/Temp/论文阅读模板.md",
-    "未命名.md",
+    "Unsort/markmind.md",
+    "Unsort/待做清单.md",
     "Src/Temp/DailyNotes.md",
+    "Unsort/obsidian基础教程.md",
+    "Unsort/Obsidian转网站方案.md",
+    "未命名.md",
     "Daily/asdf 01-17-2023 星期2.md",
     "Daily/名字 01-17-2023 星期2.md",
-    "Daily/名字2 01-17-2023 星期2.md",
-    "Daily/name 01-17-2023 星期2.md",
-    "Daily/asfd 01-17-2023 星期2.md",
-    "Daily/undefined 01-17-2023 星期2.md",
-    "2023-01-17.md"
+    "Daily/名字2 01-17-2023 星期2.md"
   ]
 }

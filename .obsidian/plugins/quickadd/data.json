@@ -27,6 +27,34 @@
       },
       "openFile": true,
       "openFileInMode": "source"
+    },
+    {
+      "id": "d9b8681a-3021-4892-aac3-a1e7604fb754",
+      "name": "write tutorial",
+      "type": "Template",
+      "command": false,
+      "templatePath": "Src/Temp/论文阅读模板.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{value}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "Pub/Tutorial/Unsort"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "incrementFileName": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default"
     }
   ],
   "macros": [],
