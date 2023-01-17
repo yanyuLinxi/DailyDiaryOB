@@ -8,11 +8,13 @@
       "templatePath": "Src/Temp/DailyNotes.md",
       "fileNameFormat": {
         "enabled": true,
-        "format": "{{"
+        "format": "{{value}} {{DATE:MM-DD-yy 星期E}}"
       },
       "folder": {
-        "enabled": false,
-        "folders": [],
+        "enabled": true,
+        "folders": [
+          "Daily"
+        ],
         "chooseWhenCreatingNote": false,
         "createInSameFolderAsActiveFile": false
       },
@@ -21,10 +23,10 @@
       "openFileInNewTab": {
         "enabled": false,
         "direction": "vertical",
-        "focus": true
+        "focus": false
       },
-      "openFile": false,
-      "openFileInMode": "default"
+      "openFile": true,
+      "openFileInMode": "source"
     }
   ],
   "macros": [],
