@@ -1,5 +1,5 @@
 ---
-title: {{title}}
+title: {{name}}
 date: {{date}}
 tags : [
 ]
