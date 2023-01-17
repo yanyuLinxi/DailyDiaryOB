@@ -76,7 +76,7 @@
       "insertAfter": {
         "enabled": true,
         "after": "# Unsort ToDo",
-        "insertAtEnd": false,
+        "insertAtEnd": true,
         "createIfNotFound": false,
         "createIfNotFoundLocation": "top"
       },
@@ -110,7 +110,7 @@
       "insertAfter": {
         "enabled": true,
         "after": "# Unsort ToWrite",
-        "insertAtEnd": false,
+        "insertAtEnd": true,
         "createIfNotFound": false,
         "createIfNotFoundLocation": "top"
       },

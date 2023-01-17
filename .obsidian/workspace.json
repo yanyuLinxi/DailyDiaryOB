@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unsort/obsidian基础教程.md",
+                "file": "Daily/Plan/ToDo.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unsort/obsidian基础教程.md"
+                "file": "Daily/Plan/ToDo.md"
               }
             }
           },
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unsort/obsidian基础教程.md",
+                "file": "Daily/Plan/ToDo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unsort/obsidian基础教程.md",
+                "file": "Daily/Plan/ToDo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Unsort/obsidian基础教程.md",
+                "file": "Daily/Plan/ToDo.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -210,8 +210,8 @@
   },
   "active": "cb5790a7a7f6992a",
   "lastOpenFiles": [
-    "Unsort/快捷键记录.md",
     "Unsort/obsidian基础教程.md",
+    "Unsort/快捷键记录.md",
     "Unsort/Obsidian转网站方案.md",
     "2023-01-17.md",
     "Src/Temp/教程写作模板.md",
