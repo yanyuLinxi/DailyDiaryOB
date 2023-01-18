@@ -1,6 +1,6 @@
 ---
 title: {{title}}
-date: {{date}}
+date: {{date:yyyy-MM-DD HH:mm:ss }}
 tags : [
 ]
 categories : [

@@ -5,6 +5,6 @@
   "showWeeklyNote": true,
   "weeklyNoteFormat": "gggg年MM月-第W周",
   "weeklyNoteTemplate": "Src/Temp/Weekly Summary",
-  "weeklyNoteFolder": "Daily/Week",
+  "weeklyNoteFolder": "Diary/Weekly",
   "localeOverride": "system-default"
 }

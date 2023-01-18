@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#todo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "70a798a42b88ff1c",
@@ -211,15 +210,15 @@
   },
   "active": "23d53c9d954bc256",
   "lastOpenFiles": [
-    "Daily/Week/2023年01月-第3周.md",
-    "Daily/Plan/ToDo.md",
-    "Daily/Plan/Write.md",
+    "Diary/Weekly/2023年01月-第3周.md",
     "Src/Temp/Weekly Summary.md",
-    "Pub/Tutorial/Unsort/HuggingFace基础教程(一).md",
-    "Daily/Week/2023-01-第3周.md",
-    "Daily/Week/2023-00-第3周.md",
     "Src/Temp/DailyNotes.md",
-    "Daily/Week/2023-0-3.md",
-    "Src/Temp/论文阅读模板.md"
+    "Diary/Daily/2023-01-18 星期3.md",
+    "Src/Temp/论文阅读模板.md",
+    "Src/Temp/教程写作模板.md",
+    "Pub/Tutorial/Unsort/HuggingFace基础教程(一).md",
+    "Diary/Plan/Write.md",
+    "Diary/Plan/ToDo.md",
+    "Daily/Week/2023-01-第3周.md"
   ]
 }

@@ -1,6 +1,6 @@
 ---
 title: {{title}}
-date: {{date:gggg-m-W}}
+date: {{date:gggg-MM-W}}
 tags : [
 	"周报",
 	"{{date:gggg-MM}}"
