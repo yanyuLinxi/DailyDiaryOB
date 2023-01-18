@@ -1,3 +1,5 @@
 {
-  "template": "Src/Temp/DailyNotes"
+  "template": "Src/Temp/DailyNotes",
+  "format": "YYYY-MM-DD 星期E",
+  "folder": "Daily/Diary"
 }
