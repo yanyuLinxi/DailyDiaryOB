@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diary/Plan/ToDo.md",
+                "file": "Diary/Plan/Write.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -23,13 +23,19 @@
           {
             "id": "fbbf3c7c11d688a6",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Pub/Tutorial/Huggingface系列/HuggingFace基础教程(一).md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "pinned": true
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -103,7 +109,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Diary/Plan/Write.md"
+              }
             }
           },
           {
@@ -120,6 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Diary/Plan/Write.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,6 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Diary/Plan/Write.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,6 +175,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Diary/Plan/Write.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -212,17 +223,17 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "fbbf3c7c11d688a6",
+  "active": "23d53c9d954bc256",
   "lastOpenFiles": [
-    "Diary/Plan/未命名.canvas",
-    "Diary/Plan/Watch.md",
-    "Diary/Plan/ToDo.md",
-    "Pub/Tutorial/Unsort/HuggingFace基础教程(一).md",
-    "Diary/Weekly/2023年01月-第3周.md",
-    "Src/Temp/Weekly Summary.md",
-    "Src/Temp/DailyNotes.md",
-    "Diary/Daily/2023-01-18 星期3.md",
-    "Src/Temp/论文阅读模板.md",
-    "Src/Temp/教程写作模板.md"
+    "Hypo/自监督学习和对比学习.md",
+    "Hypo/中国共产党章程(全文)_共产党员网.md",
+    "Pub/Tutorial/Huggingface系列/HuggingFace基础教程(一).md",
+    "Hypo/总结 - Hugging Face Course.md",
+    "Hypo/自然语言处理 - Hugging Face Course.md",
+    "Hypo/自然语言处理中的Attention机制总结 - CODE and POEM - CSDN博客.md",
+    "Hypo/张量分析笔记（三）.md",
+    "Hypo/张量分析笔记（二）.md",
+    "Diary/Plan/Write.md",
+    "Diary/Plan/Watch.md"
   ]
 }

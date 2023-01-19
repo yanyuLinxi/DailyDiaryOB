@@ -9,6 +9,7 @@ no due date
 sort by due desc
 description does not include #towrite 
 description does not include #todo 
+description does not include #watch 
 ```
 # Unsort ToDo
 - [ ] 寻找机会试一下Chatgpt，并尝试能否写个网络？ #todo
@@ -18,6 +19,6 @@ description does not include #todo
 - [ ] 查找资料将obsidian转为个人网站 #todo
 - [ ] 弄清楚tags和categories的区别 #todo #towrite
 - [ ] 李沐instructGPT #todo
-- [ ] 十三条命 #todo
+- [ ] 要学习java和java相关的深度学习内容。
 # Unsort ToWrite
 - [ ] obsidian搭建教程，介绍几个插件quickadd, tasks等 #towrite 
