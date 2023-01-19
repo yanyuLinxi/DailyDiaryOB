@@ -17,7 +17,7 @@ description does not include #todo
 - [ ] 学习完几个[插件](https://www.bilibili.com/video/BV18Y4y1H7Gu/?vd_source=64171f856db920efec690ac6c00f5cee) #todo
 - [ ] 查找资料将obsidian转为个人网站 #todo
 - [ ] 弄清楚tags和categories的区别 #todo #towrite
-
-
+- [ ] 李沐instructGPT #todo
+- [ ] 十三条命 #todo
 # Unsort ToWrite
 - [ ] obsidian搭建教程，介绍几个插件quickadd, tasks等 #towrite 

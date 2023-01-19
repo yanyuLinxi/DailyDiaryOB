@@ -1,34 +1,6 @@
 {
   "choices": [
     {
-      "id": "ab13ed5c-e46a-4f2b-ba97-35ca68b5b403",
-      "name": "test",
-      "type": "Template",
-      "command": true,
-      "templatePath": "Src/Temp/DailyNotes.md",
-      "fileNameFormat": {
-        "enabled": true,
-        "format": "{{value}} {{DATE:MM-DD-yy 星期E}}"
-      },
-      "folder": {
-        "enabled": true,
-        "folders": [
-          "Daily"
-        ],
-        "chooseWhenCreatingNote": false,
-        "createInSameFolderAsActiveFile": false
-      },
-      "appendLink": false,
-      "incrementFileName": false,
-      "openFileInNewTab": {
-        "enabled": false,
-        "direction": "vertical",
-        "focus": false
-      },
-      "openFile": true,
-      "openFileInMode": "source"
-    },
-    {
       "id": "d9b8681a-3021-4892-aac3-a1e7604fb754",
       "name": "Capture Write Papers After Reading",
       "type": "Template",
@@ -62,7 +34,7 @@
       "type": "Capture",
       "command": true,
       "appendLink": false,
-      "captureTo": "Daily/Plan/ToDo.md",
+      "captureTo": "Diary/Plan/ToDo.md",
       "captureToActiveFile": false,
       "createFileIfItDoesntExist": {
         "enabled": false,
@@ -96,7 +68,7 @@
       "type": "Capture",
       "command": true,
       "appendLink": false,
-      "captureTo": "Daily/Plan/ToDo.md",
+      "captureTo": "Diary/Plan/ToDo.md",
       "captureToActiveFile": false,
       "createFileIfItDoesntExist": {
         "enabled": false,
@@ -150,6 +122,40 @@
         "focus": true
       },
       "openFile": true,
+      "openFileInMode": "default"
+    },
+    {
+      "id": "c2b12af9-53a2-494d-8129-4a489e85d6e3",
+      "name": "Capture ToWatch",
+      "type": "Capture",
+      "command": true,
+      "appendLink": false,
+      "captureTo": "Diary/Plan/Watch.md",
+      "captureToActiveFile": false,
+      "createFileIfItDoesntExist": {
+        "enabled": false,
+        "createWithTemplate": false,
+        "template": ""
+      },
+      "format": {
+        "enabled": true,
+        "format": "- [ ] {{value}} #watch"
+      },
+      "insertAfter": {
+        "enabled": true,
+        "after": "# Movies",
+        "insertAtEnd": true,
+        "createIfNotFound": false,
+        "createIfNotFoundLocation": "top"
+      },
+      "prepend": false,
+      "task": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": false,
       "openFileInMode": "default"
     }
   ],

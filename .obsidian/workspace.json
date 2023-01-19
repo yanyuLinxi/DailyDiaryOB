@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pub/Tutorial/Unsort/HuggingFace基础教程(一).md",
+                "file": "Diary/Plan/ToDo.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fbbf3c7c11d688a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Diary/Plan/Watch.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pub/Tutorial/Unsort/HuggingFace基础教程(一).md"
+                "file": "Diary/Plan/Watch.md"
               }
             }
           },
@@ -113,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pub/Tutorial/Unsort/HuggingFace基础教程(一).md",
+                "file": "Diary/Plan/Watch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pub/Tutorial/Unsort/HuggingFace基础教程(一).md",
+                "file": "Diary/Plan/Watch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +174,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Pub/Tutorial/Unsort/HuggingFace基础教程(一).md",
+                "file": "Diary/Plan/Watch.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -208,17 +222,17 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "23d53c9d954bc256",
+  "active": "fbbf3c7c11d688a6",
   "lastOpenFiles": [
+    "Diary/Plan/ToDo.md",
+    "Pub/Tutorial/Unsort/HuggingFace基础教程(一).md",
     "Diary/Weekly/2023年01月-第3周.md",
     "Src/Temp/Weekly Summary.md",
     "Src/Temp/DailyNotes.md",
     "Diary/Daily/2023-01-18 星期3.md",
     "Src/Temp/论文阅读模板.md",
     "Src/Temp/教程写作模板.md",
-    "Pub/Tutorial/Unsort/HuggingFace基础教程(一).md",
     "Diary/Plan/Write.md",
-    "Diary/Plan/ToDo.md",
     "Daily/Week/2023-01-第3周.md"
   ]
 }
