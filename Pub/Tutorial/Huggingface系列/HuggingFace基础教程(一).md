@@ -45,6 +45,9 @@ toc: true
 		1. [将文本翻译成数字](<https://huggingface.co/course/zh-CN/chapter2/4?fw=pt#:~:text=%E6%96%87%E6%9C%AC%E7%BF%BB%E8%AF%91%E6%88%90%E6%95%B0%E5%AD%97%E8%A2%AB%E7%A7%B0%E4%B8%BA%E7%BC%96%E7%A0%81(encoding).%E7%BC%96%E7%A0%81%E5%88%86%E4%B8%A4%E6%AD%A5%E5%AE%8C%E6%88%90>)
 			1. 拆分为单词（以及相关API）
 			2. 转为数字（以及相关API）
+		2. 处理文本。如padding、trunctation、添加注意力遮罩层。
+		3. 添加embedding层。如 [attention mask](https://huggingface.co/course/zh-CN/chapter2/5?fw=pt#:~:text=%E6%9D%A5%E5%AE%9E%E7%8E%B0%E7%9A%84%E3%80%82-,%E6%B3%A8%E6%84%8F%E5%8A%9B%E9%9D%A2%E5%85%B7,-Attention%20masks%E6%98%AF)。Attention Mask就是用
+		4. 注意：使用tokenizer(seq)是会自动添加标记的。使用tokenizer.tokenize(seq)是分词。不会添加标记。
 	2. Tokenizer的基础代码
 	3. 分词器种类：
 		1. [子词化分词](<https://huggingface.co/course/zh-CN/chapter2/4?fw=pt#:~:text=subword%20tokenization)%E3%80%82-,%E5%AD%90%E8%AF%8D%E6%A0%87%E8%AE%B0%E5%8C%96,-%E5%AD%90%E8%AF%8D%E5%88%86%E8%AF%8D>)

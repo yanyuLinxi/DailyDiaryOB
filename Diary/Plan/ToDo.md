@@ -22,3 +22,4 @@ description does not include #watch
 - [ ] 要学习java和java相关的深度学习内容。
 # Unsort ToWrite
 - [ ] obsidian搭建教程，介绍几个插件quickadd, tasks等 #towrite 
+- [ ] 做一个摘要分享 [内心强大的人应该与自己交流](https://www.zhihu.com/question/520495704/answer/2457153119) #towrite
