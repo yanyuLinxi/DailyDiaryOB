@@ -54,7 +54,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pub/Tutorial/Unsort/Dota2多人套路.md",
+                "file": "Diary/Plan/Watch.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pub/Tutorial/Unsort/Dota2多人套路.md"
+                "file": "Diary/Plan/Watch.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pub/Tutorial/Unsort/Dota2多人套路.md",
+                "file": "Diary/Plan/Watch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pub/Tutorial/Unsort/Dota2多人套路.md",
+                "file": "Diary/Plan/Watch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Pub/Tutorial/Unsort/Dota2多人套路.md",
+                "file": "Diary/Plan/Watch.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -252,8 +252,8 @@
   },
   "active": "8467fd68f1a58a77",
   "lastOpenFiles": [
-    "Pub/Tutorial/Unsort/新年祝福名单.md",
     "Pub/Tutorial/Unsort/Dota2多人套路.md",
+    "Pub/Tutorial/Unsort/新年祝福名单.md",
     "Pub/Tutorial/Huggingface系列/HuggingFace基础教程(一).md",
     "Diary/Plan/Watch.md",
     "Diary/Plan/Write.md",
