@@ -12,5 +12,5 @@
 - [ ] 阿凡达一 #watch
 - [ ] 阿凡达二 #watch
 - [ ] 狂飙 #watch
-# ToRead
+- [ ] 万神殿 #watch# ToRead
 - [ ] [机器学习tuning play book](https://github.com/google-research/tuning_playbook) #toread
