@@ -15,3 +15,4 @@
 - [ ] 万神殿 #watch# ToRead
 - [ ] [机器学习tuning play book](https://github.com/google-research/tuning_playbook) #toread
 - [ ] 扫黑风暴 #watch 
+- [ ] video log
