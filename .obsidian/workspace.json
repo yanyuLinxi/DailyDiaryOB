@@ -54,7 +54,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diary/Plan/Watch.md",
+                "file": "Diary/Weekly/2023年01月-第3周.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diary/Plan/Watch.md"
+                "file": "Diary/Weekly/2023年01月-第3周.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diary/Plan/Watch.md",
+                "file": "Diary/Weekly/2023年01月-第3周.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diary/Plan/Watch.md",
+                "file": "Diary/Weekly/2023年01月-第3周.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Diary/Plan/Watch.md",
+                "file": "Diary/Weekly/2023年01月-第3周.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -252,15 +252,15 @@
   },
   "active": "8467fd68f1a58a77",
   "lastOpenFiles": [
-    "Pub/Tutorial/Unsort/Dota2多人套路.md",
+    "Pics/1.png",
+    "Pics/Pasted image 20230117144414.png",
     "Pub/Tutorial/Unsort/新年祝福名单.md",
-    "Pub/Tutorial/Huggingface系列/HuggingFace基础教程(一).md",
+    "Pub/Tutorial/Unsort/Dota2多人套路.md",
     "Diary/Plan/Watch.md",
+    "Pub/Tutorial/Huggingface系列/HuggingFace基础教程(一).md",
     "Diary/Plan/Write.md",
     "Diary/Plan/ToDo.md",
     "Unsort/obsidian基础教程.md",
-    "Unsort/快捷键记录.md",
-    "Hypo/自监督学习和对比学习.md",
-    "Hypo/中国共产党章程(全文)_共产党员网.md"
+    "Unsort/快捷键记录.md"
   ]
 }
