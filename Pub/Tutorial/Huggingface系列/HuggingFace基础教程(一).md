@@ -65,7 +65,7 @@ toc: true
 		3. 注意：使用tokenizer(seq)是会自动添加标记的。使用tokenizer.tokenize(seq)是分词。不会添加标记。
 	2. Tokenizer的基础代码
 	3. 分词器种类：
-		1. [子词化分词](<https://huggingface.co/course/zh-CN/chapter2/4?fw=pt#:~:text=subword%20tokenization)%E3%80%82-,%E5%AD%90%E8%AF%8D%E6%A0%87%E8%AE%B0%E5%8C%96,-%E5%AD%90%E8%AF%8D%E5%88%86%E8%AF%8D>)
+		1. [子词化分词](<https://huggingface.co/course/zh-CN/chapter2/4?fw=pt#:~:text=subword%20tokenization%E3%80%82-,%E5%AD%90%E8%AF%8D%E6%A0%87%E8%AE%B0%E5%8C%96,-%E5%AD%90%E8%AF%8D%E5%88%86%E8%AF%8D>)
 		2. [字符分词](https://huggingface.co/course/zh-CN/chapter2/4?fw=pt#characterbased)
 		3. wordpiece
 	4. 关键API
@@ -75,17 +75,28 @@ toc: true
 		4. ~.decode() 转为string
 7. dataset类
 	1. 简单介绍，用于快速导入数据。
+		1. 关键：如何组装。如何遍历，如何预处理。如何查看数据。
 	2. 关键API介绍
 		1. load_dataset
-		2. map(tokenize_function, batched=True) 这个结果是缓存的。
+		2. map(tokenize_function, batched=True) 这个结果是缓存的。batched是会分批操作，是加速的关键。num_proc指定进程数量。
 		3. [DataCollatorWithPadding](https://huggingface.co/course/zh-CN/chapter3/2?fw=pt#:~:text=transformer%E5%BA%93%E9%80%9A%E8%BF%87-,DataCollatorWithPadding,-%E4%B8%BA%E6%88%91%E4%BB%AC%E6%8F%90%E4%BE%9B) 这个返回一个数据收集器。和tokenizer一样的用法，对字词进行切分。
+		4. Dataset.shuffle() 打乱数据集
+		5. Dataset.select() 抽取数据。
+		6. Dataset.filter()函数。
+		7. [train_test_split函数](<https://huggingface.co/course/zh-CN/chapter5/3?fw=pt#:~:text=drug_dataset.reset_format()-,%E5%88%9B%E5%BB%BA%E9%AA%8C%E8%AF%81%E9%9B%86,-%E5%B0%BD%E7%AE%A1%E6%88%91%E4%BB%AC%E6%9C%89>)
+		8. save_to_disk
 8. Trainer API
 	1. Training Arguments示例代码
+		1. trainer.train()
+		2. trainer.predict()
 	2. 相关参数的介绍。
 9. evaluate API
+	1. compute metrics 函数和用法
 10. Accelerate 库。
 	1. 简单介绍和基础用法。
 		1. 单机多gpu。多机器等。
+11. 其他
+	1. 设置种子
 
 
 ## TODO
