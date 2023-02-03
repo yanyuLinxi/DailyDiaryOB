@@ -9,10 +9,11 @@
 - [ ] 伊尼舍林的报丧女妖 #watch
 - [ ] 悲情三角 #watch
 - [ ] 晒后假日 #watch
-- [ ] 阿凡达一 #watch
+- [x] 阿凡达一 #watch ✅ 2023-02-03
 - [ ] 阿凡达二 #watch
 - [ ] 狂飙 #watch
 - [ ] 万神殿 #watch# ToRead
 - [ ] [机器学习tuning play book](https://github.com/google-research/tuning_playbook) #toread
 - [ ] 扫黑风暴 #watch 
 - [ ] video log
+- [ ] 人生第一次【纪录片】 #watch

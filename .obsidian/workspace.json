@@ -41,14 +41,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diary/Plan/ToDo.md",
+                "file": "Diary/Plan/Watch.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -123,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pub/Tutorial/Huggingface系列/HuggingFace基础教程(一).md"
+                "file": "Diary/Plan/Watch.md"
               }
             }
           },
@@ -141,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pub/Tutorial/Huggingface系列/HuggingFace基础教程(一).md",
+                "file": "Diary/Plan/Watch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pub/Tutorial/Huggingface系列/HuggingFace基础教程(一).md",
+                "file": "Diary/Plan/Watch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +189,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Pub/Tutorial/Huggingface系列/HuggingFace基础教程(一).md",
+                "file": "Diary/Plan/Watch.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -236,11 +237,11 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "fbbf3c7c11d688a6",
+  "active": "8467fd68f1a58a77",
   "lastOpenFiles": [
+    "Pub/Tutorial/Huggingface系列/HuggingFace基础教程(一).md",
     "Diary/Plan/ToDo.md",
     "Diary/Plan/Watch.md",
-    "Pub/Tutorial/Huggingface系列/HuggingFace基础教程(一).md",
     "Diary/Weekly/2023年01月-第3周.md",
     "Pics/1.png",
     "Pics/Pasted image 20230117144414.png",
