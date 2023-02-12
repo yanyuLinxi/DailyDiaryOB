@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pub/Tutorial/Unsort/毕业论文大纲.md",
+                "file": "Diary/Plan/ToDo.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -120,7 +120,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#todo ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -137,7 +137,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -166,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pub/Tutorial/Unsort/毕业论文大纲.md"
+                "file": "Diary/Plan/ToDo.md"
               }
             }
           },
@@ -184,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pub/Tutorial/Unsort/毕业论文大纲.md",
+                "file": "Diary/Plan/ToDo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,7 +202,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pub/Tutorial/Unsort/毕业论文大纲.md",
+                "file": "Diary/Plan/ToDo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -231,7 +232,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Pub/Tutorial/Unsort/毕业论文大纲.md",
+                "file": "Diary/Plan/ToDo.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -281,8 +282,8 @@
   },
   "active": "c809a5bfa1560322",
   "lastOpenFiles": [
-    "Pub/Tutorial/Unsort/个人成果.md",
     "Pub/Tutorial/Unsort/毕业论文大纲.md",
+    "Pub/Tutorial/Unsort/个人成果.md",
     "Pub/Tutorial/Huggingface系列/HuggingFace基础教程(一).md",
     "Src/Temp/DailyNotes.md",
     "Diary/Plan/Watch.md",
