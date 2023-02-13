@@ -25,6 +25,7 @@
           {
             "id": "6bb2c06b2e7e8c59",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -32,7 +33,8 @@
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              }
+              },
+              "pinned": true
             }
           },
           {
@@ -91,7 +93,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -167,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diary/Plan/ToDo.md"
+                "file": "Pub/Tutorial/Unsort/毕业论文大纲.md"
               }
             }
           },
@@ -185,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diary/Plan/ToDo.md",
+                "file": "Pub/Tutorial/Unsort/毕业论文大纲.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +204,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diary/Plan/ToDo.md",
+                "file": "Pub/Tutorial/Unsort/毕业论文大纲.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -232,7 +234,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Diary/Plan/ToDo.md",
+                "file": "Pub/Tutorial/Unsort/毕业论文大纲.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -280,15 +282,15 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "c809a5bfa1560322",
+  "active": "6bb2c06b2e7e8c59",
   "lastOpenFiles": [
+    "Diary/Plan/ToDo.md",
     "Pub/Tutorial/Unsort/毕业论文大纲.md",
     "Pub/Tutorial/Unsort/个人成果.md",
     "Pub/Tutorial/Huggingface系列/HuggingFace基础教程(一).md",
     "Src/Temp/DailyNotes.md",
     "Diary/Plan/Watch.md",
     "Diary/Plan/Write.md",
-    "Diary/Plan/ToDo.md",
     "Diary/Weekly/2023年01月-第3周.md",
     "Pics/1.png",
     "Pics/Pasted image 20230117144414.png"
