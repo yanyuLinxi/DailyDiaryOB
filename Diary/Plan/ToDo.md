@@ -21,7 +21,9 @@ description does not include #watch
 - [ ] 李沐instructGPT #todo
 - [ ] 要学习java和java相关的深度学习内容。 #todo 
 - [ ] 学习马克思主义原理by涛 #todo #watch 
-- [ ] 询问cyberc还能否再投递视频 #todo# Unsort ToWrite
+- [ ] 询问cyberc还能否再投递视频 #todo
+- [ ] 更改阅读笔记的模板，使用纯文字进行记录 #todo
+# Unsort ToWrite
 - [ ] obsidian搭建教程，介绍几个插件quickadd, tasks等 #towrite 
 - [ ] 做一个摘要分享 [内心强大的人应该与自己交流](https://www.zhihu.com/question/520495704/answer/2457153119) #towrite
 - [ ] 日后机器学习学习计划 #towrite

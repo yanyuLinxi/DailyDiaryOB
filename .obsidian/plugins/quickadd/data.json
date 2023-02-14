@@ -43,7 +43,7 @@
       },
       "format": {
         "enabled": true,
-        "format": "- [ ] {{value}} #todo"
+        "format": "- [ ] {{value}} #todo\n"
       },
       "insertAfter": {
         "enabled": true,

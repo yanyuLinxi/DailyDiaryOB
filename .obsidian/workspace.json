@@ -23,6 +23,19 @@
             }
           },
           {
+            "id": "5a6eb436c79effbf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pub/Papers/社会公众对HPV疫苗的关注热点分析_基于新浪微博数据.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "6bb2c06b2e7e8c59",
             "type": "leaf",
             "pinned": true,
@@ -43,7 +56,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diary/Plan/ToDo.md",
+                "file": "Diary/Plan/Watch.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -122,7 +135,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#todo ",
+                "query": "tag:#todo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -139,12 +152,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "70a798a42b88ff1c",
@@ -169,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pub/Tutorial/Unsort/毕业论文大纲.md"
+                "file": "Pub/Papers/社会公众对HPV疫苗的关注热点分析_基于新浪微博数据.md"
               }
             }
           },
@@ -187,7 +200,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pub/Tutorial/Unsort/毕业论文大纲.md",
+                "file": "Pub/Papers/社会公众对HPV疫苗的关注热点分析_基于新浪微博数据.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +217,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pub/Tutorial/Unsort/毕业论文大纲.md",
+                "file": "Pub/Papers/社会公众对HPV疫苗的关注热点分析_基于新浪微博数据.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +247,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Pub/Tutorial/Unsort/毕业论文大纲.md",
+                "file": "Pub/Papers/社会公众对HPV疫苗的关注热点分析_基于新浪微博数据.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -258,7 +271,7 @@
                   "linkStrength": 1,
                   "linkDistance": 250,
                   "scale": 0.713275462622442,
-                  "close": true
+                  "close": false
                 }
               }
             }
@@ -282,17 +295,17 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "6bb2c06b2e7e8c59",
+  "active": "5a6eb436c79effbf",
   "lastOpenFiles": [
-    "Diary/Plan/ToDo.md",
     "Pub/Tutorial/Unsort/毕业论文大纲.md",
-    "Pub/Tutorial/Unsort/个人成果.md",
+    "Pub/Tutorial/Unsort/杨帆老师HPV舆论分析项目待做.md",
     "Pub/Tutorial/Huggingface系列/HuggingFace基础教程(一).md",
-    "Src/Temp/DailyNotes.md",
+    "Src/Temp/论文阅读模板.md",
+    "Pub/Papers/社会公众对HPV疫苗的关注热点分析_基于新浪微博数据.md",
+    "Src/Temp/教程写作模板.md",
+    "Unsort/快捷键记录.md",
     "Diary/Plan/Watch.md",
-    "Diary/Plan/Write.md",
-    "Diary/Weekly/2023年01月-第3周.md",
-    "Pics/1.png",
-    "Pics/Pasted image 20230117144414.png"
+    "Diary/Plan/ToDo.md",
+    "Pub/Tutorial/Unsort/个人成果.md"
   ]
 }

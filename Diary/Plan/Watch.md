@@ -11,9 +11,11 @@
 - [ ] 晒后假日 #watch
 - [x] 阿凡达一 #watch ✅ 2023-02-03
 - [ ] 阿凡达二 #watch
-- [ ] 狂飙 #watch
+- [x] 狂飙 #watch ✅ 2023-02-14
 - [ ] 万神殿 #watch# ToRead
 - [ ] [机器学习tuning play book](https://github.com/google-research/tuning_playbook) #toread
 - [ ] 扫黑风暴 #watch 
-- [ ] video log
+- [ ] video log 构建计划。形式、内容、时间。
 - [ ] 人生第一次【纪录片】 #watch
+- [ ] 少爷和我，小品 #watch
+- [ ] 基于公众对HPV疫苗的关注热点分析-基于新浪微博数据 #toread
