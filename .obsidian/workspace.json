@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pub/Tutorial/Unsort/成长思考.md",
+                "file": "Pub/Tutorial/Unsort/毕业论文大纲.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pub/Tutorial/Unsort/成长思考.md"
+                "file": "Pub/Tutorial/Unsort/毕业论文大纲.md"
               }
             }
           },
@@ -212,7 +212,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pub/Tutorial/Unsort/成长思考.md",
+                "file": "Pub/Tutorial/Unsort/毕业论文大纲.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,7 +229,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pub/Tutorial/Unsort/成长思考.md",
+                "file": "Pub/Tutorial/Unsort/毕业论文大纲.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -259,7 +259,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Pub/Tutorial/Unsort/成长思考.md",
+                "file": "Pub/Tutorial/Unsort/毕业论文大纲.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -309,15 +309,15 @@
   },
   "active": "1acf4072ee8b58f5",
   "lastOpenFiles": [
+    "Pub/Tutorial/Unsort/Dota2多人套路.md",
+    "Pub/Tutorial/Unsort/HPV舆论分析项目-杨帆老师项目待做.md",
+    "Pub/Papers/社会公众对HPV疫苗的关注热点分析_基于新浪微博数据.md",
+    "Pub/Tutorial/Unsort/成长思考.md",
     "Diary/Weekly/2023年01月-第3周.md",
     "Pub/Tutorial/Huggingface系列/HuggingFace基础教程(一).md",
-    "Pub/Papers/社会公众对HPV疫苗的关注热点分析_基于新浪微博数据.md",
     "Pub/Tutorial/Unsort/毕业论文大纲.md",
-    "Pub/Tutorial/Unsort/杨帆老师HPV舆论分析项目待做.md",
     "Src/Temp/论文阅读模板.md",
     "Src/Temp/教程写作模板.md",
-    "Unsort/快捷键记录.md",
-    "Diary/Plan/Watch.md",
-    "Diary/Plan/ToDo.md"
+    "Unsort/快捷键记录.md"
   ]
 }
