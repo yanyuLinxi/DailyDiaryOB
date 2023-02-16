@@ -24,6 +24,7 @@ description does not include #watch
 - [ ] 询问cyberc还能否再投递视频 #todo
 - [ ] 更改阅读笔记的模板，使用纯文字进行记录 #todo
 - [ ] 交三方协议报告 #todo
+- [ ] 买无糖豆浆粉，买水果，在寝室吃早饭 #todo
 # Unsort ToWrite
 - [ ] obsidian搭建教程，介绍几个插件quickadd, tasks等 #towrite 
 - [ ] 做一个摘要分享 [内心强大的人应该与自己交流](https://www.zhihu.com/question/520495704/answer/2457153119) #towrite
