@@ -38,29 +38,18 @@
             }
           },
           {
-            "id": "ed49f2028ba46cb5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pub/Life/对爱情的理解.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "c809a5bfa1560322",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diary/Plan/Watch.md",
+                "file": "Pub/Tutorial/Unsort/考公计划.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              }
+              },
+              "pinned": true
             }
           },
           {
@@ -181,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pub/Life/对爱情的理解.md"
+                "file": "Pub/Tutorial/Unsort/考公计划.md"
               }
             }
           },
@@ -199,7 +188,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pub/Life/对爱情的理解.md",
+                "file": "Pub/Tutorial/Unsort/考公计划.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,7 +205,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pub/Life/对爱情的理解.md",
+                "file": "Pub/Tutorial/Unsort/考公计划.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,7 +235,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Pub/Life/对爱情的理解.md",
+                "file": "Pub/Tutorial/Unsort/考公计划.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -294,17 +283,17 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "ed49f2028ba46cb5",
+  "active": "c809a5bfa1560322",
   "lastOpenFiles": [
     "Pub/Tutorial/Unsort/毕业论文大纲.md",
+    "Pics/Pasted image 20230216150007.png",
+    "Pub/Tutorial/Unsort/考公计划.md",
     "Pub/Life/对爱情的理解.md",
     "Pub/Tutorial/Unsort/成长思考.md",
     "Pub/Tutorial/Huggingface系列/HuggingFace基础教程(一).md",
     "Diary/Plan/ToDo.md",
     "Pub/Tutorial/Unsort/Dota2多人套路.md",
     "Pub/Tutorial/Unsort/HPV舆论分析项目-杨帆老师项目待做.md",
-    "Pub/Papers/社会公众对HPV疫苗的关注热点分析_基于新浪微博数据.md",
-    "Diary/Weekly/2023年01月-第3周.md",
-    "Src/Temp/论文阅读模板.md"
+    "Pub/Papers/社会公众对HPV疫苗的关注热点分析_基于新浪微博数据.md"
   ]
 }
