@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pub/Tutorial/Unsort/HPV舆论分析项目-杨帆老师项目待做.md",
+                "file": "Diary/Plan/Watch.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -81,7 +81,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pub/Tutorial/Unsort/HPV舆论分析项目-杨帆老师项目待做.md"
+                "file": "Pub/Tutorial/Unsort/毕业论文大纲.md"
               }
             }
           },
@@ -174,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pub/Tutorial/Unsort/HPV舆论分析项目-杨帆老师项目待做.md",
+                "file": "Pub/Tutorial/Unsort/毕业论文大纲.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pub/Tutorial/Unsort/HPV舆论分析项目-杨帆老师项目待做.md",
+                "file": "Pub/Tutorial/Unsort/毕业论文大纲.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,7 +221,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Pub/Tutorial/Unsort/HPV舆论分析项目-杨帆老师项目待做.md",
+                "file": "Pub/Tutorial/Unsort/毕业论文大纲.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -269,8 +269,9 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "a3a2f480e2fe8d3a",
+  "active": "6bb2c06b2e7e8c59",
   "lastOpenFiles": [
+    "Diary/Plan/Watch.md",
     "Pub/Tutorial/Unsort/HPV舆论分析项目-杨帆老师项目待做.md",
     "Diary/Weekly/2023年02月-第7周.md",
     "Pub/Papers/社会公众对HPV疫苗的关注热点分析_基于新浪微博数据.md",
@@ -279,7 +280,6 @@
     "Src/Temp/Weekly Summary.md",
     "Diary/Weekly/2023年01月-第3周.md",
     "Pub/Tutorial/Unsort/毕业论文大纲.md",
-    "Src/Temp/DailyNotes.md",
-    "Pub/Tutorial/Unsort/Dota2多人套路.md"
+    "Src/Temp/DailyNotes.md"
   ]
 }
