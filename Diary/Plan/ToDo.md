@@ -25,7 +25,9 @@ description does not include #watch
 - [ ] 询问cyberc还能否再投递视频 #todo
 - [ ] 更改阅读笔记的模板，使用纯文字进行记录 #todo
 - [ ] 交三方协议报告 #todo
-- [ ] 买无糖豆浆粉，买水果，在寝室吃早饭 #todo
+- [x] 买无糖豆浆粉，买水果，在寝室吃早饭 #todo ✅ 2023-02-18
+- [ ] 学习b-box。列学习计划。
+- [ ] b站只看小动物、小品、人物传记。
 
 # Unsort ToWrite
 - [ ] obsidian搭建教程，介绍几个插件quickadd, tasks等 #towrite 

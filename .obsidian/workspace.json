@@ -73,10 +73,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diary/Weekly/2023年02月-第7周.md",
+                "file": "Diary/Plan/ToDo.md",
                 "mode": "source",
                 "backlinks": true,
-                "source": true
+                "source": false
               }
             }
           },
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diary/Weekly/2023年02月-第7周.md"
+                "file": "Diary/Plan/ToDo.md"
               }
             }
           },
@@ -190,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diary/Weekly/2023年02月-第7周.md",
+                "file": "Diary/Plan/ToDo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diary/Weekly/2023年02月-第7周.md",
+                "file": "Diary/Plan/ToDo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -237,7 +237,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Diary/Weekly/2023年02月-第7周.md",
+                "file": "Diary/Plan/ToDo.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -287,9 +287,9 @@
   },
   "active": "a3a2f480e2fe8d3a",
   "lastOpenFiles": [
+    "Diary/Weekly/2023年02月-第7周.md",
     "Diary/Plan/ToDo.md",
     "Pub/Tutorial/Huggingface系列/HuggingFace基础教程(一).md",
-    "Diary/Weekly/2023年02月-第7周.md",
     "Src/Temp/Weekly Summary.md",
     "Diary/Weekly/2023年01月-第3周.md",
     "Pub/Tutorial/Unsort/毕业论文大纲.md",
