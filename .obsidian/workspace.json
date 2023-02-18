@@ -73,10 +73,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pub/Tutorial/Unsort/毕业论文大纲.md",
+                "file": "Diary/Weekly/2023年02月-第7周.md",
                 "mode": "source",
                 "backlinks": true,
-                "source": false
+                "source": true
               }
             }
           },
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pub/Tutorial/Unsort/毕业论文大纲.md"
+                "file": "Diary/Weekly/2023年02月-第7周.md"
               }
             }
           },
@@ -190,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pub/Tutorial/Unsort/毕业论文大纲.md",
+                "file": "Diary/Weekly/2023年02月-第7周.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pub/Tutorial/Unsort/毕业论文大纲.md",
+                "file": "Diary/Weekly/2023年02月-第7周.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -237,7 +237,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Pub/Tutorial/Unsort/毕业论文大纲.md",
+                "file": "Diary/Weekly/2023年02月-第7周.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -288,14 +288,14 @@
   "active": "a3a2f480e2fe8d3a",
   "lastOpenFiles": [
     "Diary/Plan/ToDo.md",
+    "Pub/Tutorial/Huggingface系列/HuggingFace基础教程(一).md",
+    "Diary/Weekly/2023年02月-第7周.md",
+    "Src/Temp/Weekly Summary.md",
     "Diary/Weekly/2023年01月-第3周.md",
     "Pub/Tutorial/Unsort/毕业论文大纲.md",
     "Src/Temp/DailyNotes.md",
     "Pub/Tutorial/Unsort/Dota2多人套路.md",
-    "Pub/Tutorial/Huggingface系列/HuggingFace基础教程(一).md",
     "Pub/Tutorial/Unsort/考公计划.md",
-    "Pics/Pasted image 20230216150007.png",
-    "Pub/Life/对爱情的理解.md",
-    "Pub/Tutorial/Unsort/成长思考.md"
+    "Pics/Pasted image 20230216150007.png"
   ]
 }
