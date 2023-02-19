@@ -38,32 +38,6 @@
             }
           },
           {
-            "id": "a3a2f480e2fe8d3a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Src/Temp/Weekly Summary.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "273bb3f1105e3d63",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Diary/Weekly/2023年02月20-第8周.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "6bb2c06b2e7e8c59",
             "type": "leaf",
             "pinned": true,
@@ -76,6 +50,19 @@
                 "source": false
               },
               "pinned": true
+            }
+          },
+          {
+            "id": "98a107590ca6c31d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Diary/Weekly/2023年02月20-第8周.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           },
           {
@@ -282,17 +269,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "273bb3f1105e3d63",
+  "active": "98a107590ca6c31d",
   "lastOpenFiles": [
-    "Src/Temp/Weekly Summary.md",
+    "Diary/Plan/ToDo.md",
     "Diary/Weekly/2023年02月20-第8周.md",
+    "Pub/Tutorial/Unsort/毕业论文大纲.md",
+    "Pub/Tutorial/Huggingface系列/HuggingFace基础教程(一).md",
+    "Pub/Papers/社会公众对HPV疫苗的关注热点分析_基于新浪微博数据.md",
+    "Pub/Life/对爱情的理解.md",
     "Pub/Tutorial/Unsort/考公计划.md",
+    "Src/Temp/Weekly Summary.md",
     "Diary/Weekly/2023年02月27-第9周.md",
-    "Diary/Weekly/2023年02月13-第7周.md",
-    "Diary/Yearly/2023成长思考.md",
-    "Diary/Weekly/2023年02月-第9周.md",
-    "Src/Temp/DailyNotes.md",
-    "Pub/Tutorial/Unsort/HPV舆论分析项目-杨帆老师项目待做.md",
-    "Diary/Plan/ToDo.md"
+    "Diary/Weekly/2023年02月13-第7周.md"
   ]
 }

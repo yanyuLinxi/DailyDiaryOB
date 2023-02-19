@@ -26,8 +26,9 @@ description does not include #watch
 - [ ] 更改阅读笔记的模板，使用纯文字进行记录 #todo
 - [ ] 交三方协议报告 #todo
 - [x] 买无糖豆浆粉，买水果，在寝室吃早饭 #todo ✅ 2023-02-18
-- [ ] 学习b-box。列学习计划。
+- [x] 学习b-box。列学习计划。放弃学习 ✅ 2023-02-19
 - [ ] b站只看小动物、小品、人物传记。
+- [ ] 用视频记录自己每天的生活
 
 # Unsort ToWrite
 - [ ] obsidian搭建教程，介绍几个插件quickadd, tasks等 #towrite 
