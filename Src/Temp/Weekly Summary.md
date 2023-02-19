@@ -16,34 +16,80 @@ toc: true
 # 上周完成任务
 ```tasks
 done
-sort by due desc
-done before today
-done after 1 week ago
+sort by start desc
+starts before <% tp.date.now("yyyy-MM-DD", 0, tp.file.title, "gggg年MM月DD-第W周") %>
+starts after <% tp.date.now("yyyy-MM-DD", -8, tp.file.title, "gggg年MM月DD-第W周") %>
 ```
 
 # 上周未完成任务
 ```tasks
 not done
-sort by due desc
-due before today
-due after 1 week ago
+has start date
+sort by start desc
+starts before <% tp.date.now("yyyy-MM-DD", 0, tp.file.title, "gggg年MM月DD-第W周") %>
+starts after  <% tp.date.now("yyyy-MM-DD", -8, tp.file.title, "gggg年MM月DD-第W周") %>
 ```
+
 
 # 本周任务计划
 
-三两句话点名核心：
+## 三两句话点名核心 ：
+
+## 当周核心TODO:
+
+## 当周其他TODO：
 
 
-##  {{date:M月D日 dddd}} 
 
-## {{tp.date:f="M月D日 dddd",offset=1}}
+## <% tp.date.now("M月DD日 dddd", -1, tp.file.title, "gggg年MM月DD-第W周") %>  
+早上：
 
- <% tp.date.now("YYYY-MM-DD", 7) %>
+中午：
+
+晚上：
+
+## <% tp.date.now("M月DD日 dddd", 0, tp.file.title, "gggg年MM月DD-第W周") %>  
+早上：
+
+中午：
+
+晚上：
+
+## <% tp.date.now("M月DD日 dddd", 1, tp.file.title, "gggg年MM月DD-第W周") %>  
+早上：
+
+中午：
+
+晚上：
+
+## <% tp.date.now("M月DD日 dddd", 2, tp.file.title, "gggg年MM月DD-第W周") %>  
+早上：
+
+中午：
+
+晚上：
+
+## <% tp.date.now("M月DD日 dddd", 3, tp.file.title, "gggg年MM月DD-第W周") %>  
+早上：
+
+中午：
+
+晚上：
+
+## <% tp.date.now("M月DD日 dddd", 4, tp.file.title, "gggg年MM月DD-第W周") %>  
+早上：
+
+中午：
+
+晚上：
+
+## <% tp.date.now("M月DD日 dddd", 5, tp.file.title, "gggg年MM月DD-第W周") %>  
+早上：
+
+中午：
+
+晚上：
 
 
-<% tp.date.now("YYYY-MM-DD", 7, "2021-04-09", "YYYY-MM-DD") %>
-{{tp.date.now("YYYY-MM-DD", 7, "2021-04-09", "YYYY-MM-DD")}}
-<% tp.date.now("YYYY-MM-DD", 7, "2021-04-09", "YYYY-MM-DD") %>
 
-{{tp_include:f="location"}}
-{{tp_date:f="ll", offset=7}}
+

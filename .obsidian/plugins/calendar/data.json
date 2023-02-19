@@ -3,7 +3,7 @@
   "weekStart": "locale",
   "wordsPerDot": 250,
   "showWeeklyNote": true,
-  "weeklyNoteFormat": "gggg年MM月-第W周",
+  "weeklyNoteFormat": "gggg年MM月DD-第W周",
   "weeklyNoteTemplate": "Src/Temp/Weekly Summary",
   "weeklyNoteFolder": "Diary/Weekly",
   "localeOverride": "system-default"
