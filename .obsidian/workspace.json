@@ -58,7 +58,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diary/Weekly/2023年02月20-第8周.md",
+                "file": "Diary/Weekly/2023年02月20日-第8周.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diary/Weekly/2023年02月20-第8周.md"
+                "file": "Diary/Weekly/2023年02月20日-第8周.md"
               }
             }
           },
@@ -174,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diary/Weekly/2023年02月20-第8周.md",
+                "file": "Diary/Weekly/2023年02月20日-第8周.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diary/Weekly/2023年02月20-第8周.md",
+                "file": "Diary/Weekly/2023年02月20日-第8周.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,7 +221,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Diary/Weekly/2023年02月20-第8周.md",
+                "file": "Diary/Weekly/2023年02月20日-第8周.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -271,15 +271,15 @@
   },
   "active": "98a107590ca6c31d",
   "lastOpenFiles": [
+    "Diary/Yearly/2023成长思考.md",
+    "Diary/Weekly/2023年02月20日-第8周.md",
+    "Diary/Weekly/2023年01月16日-第3周.md",
     "Diary/Plan/ToDo.md",
-    "Diary/Weekly/2023年02月20-第8周.md",
     "Pub/Tutorial/Unsort/毕业论文大纲.md",
     "Pub/Tutorial/Huggingface系列/HuggingFace基础教程(一).md",
     "Pub/Papers/社会公众对HPV疫苗的关注热点分析_基于新浪微博数据.md",
     "Pub/Life/对爱情的理解.md",
     "Pub/Tutorial/Unsort/考公计划.md",
-    "Src/Temp/Weekly Summary.md",
-    "Diary/Weekly/2023年02月27-第9周.md",
-    "Diary/Weekly/2023年02月13-第7周.md"
+    "Src/Temp/Weekly Summary.md"
   ]
 }
