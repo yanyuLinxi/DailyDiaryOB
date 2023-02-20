@@ -6,6 +6,7 @@
       {
         "id": "4efb53543677576c",
         "type": "tabs",
+        "dimension": 53.31125827814569,
         "children": [
           {
             "id": "8467fd68f1a58a77",
@@ -25,24 +26,11 @@
           {
             "id": "ca9347abbd1ce3ed",
             "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Diary/Weekly/2023年02月20日-第8周.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fbbf3c7c11d688a6",
-            "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pub/Tutorial/Huggingface系列/HuggingFace基础教程(一).md",
+                "file": "Diary/Weekly/2023年02月20日-第8周.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -66,6 +54,29 @@
             }
           },
           {
+            "id": "fbbf3c7c11d688a6",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pub/Tutorial/Huggingface系列/HuggingFace基础教程(一).md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "pinned": true
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "d37bdeb09ef50f89",
+        "type": "tabs",
+        "dimension": 46.688741721854306,
+        "children": [
+          {
             "id": "c809a5bfa1560322",
             "type": "leaf",
             "pinned": true,
@@ -80,8 +91,7 @@
               "pinned": true
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -157,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pub/Tutorial/Unsort/毕业论文大纲.md"
+                "file": "Diary/Weekly/2023年02月20日-第8周.md"
               }
             }
           },
@@ -175,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pub/Tutorial/Unsort/毕业论文大纲.md",
+                "file": "Diary/Weekly/2023年02月20日-第8周.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +202,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pub/Tutorial/Unsort/毕业论文大纲.md",
+                "file": "Diary/Weekly/2023年02月20日-第8周.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +232,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Pub/Tutorial/Unsort/毕业论文大纲.md",
+                "file": "Diary/Weekly/2023年02月20日-第8周.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -270,10 +280,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6bb2c06b2e7e8c59",
+  "active": "ca9347abbd1ce3ed",
   "lastOpenFiles": [
-    "Diary/Weekly/2023年02月20日-第8周.md",
     "Pub/Tutorial/Unsort/考公计划.md",
+    "Diary/Weekly/2023年02月20日-第8周.md",
     "Pub/Tutorial/Unsort/毕业论文大纲.md",
     "Diary/Weekly/2023年02月27日-第9周.md",
     "Diary/Plan/ToDo.md",
