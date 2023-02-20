@@ -16,9 +16,9 @@ toc: true
 # 上周完成任务
 ```tasks
 done
-sort by start desc
-starts before <% tp.date.now("yyyy-MM-DD", 0, tp.file.title, "gggg年MM月DD-第W周") %>
-starts after <% tp.date.now("yyyy-MM-DD", -8, tp.file.title, "gggg年MM月DD-第W周") %>
+has done date
+sort by done desc
+(done before <% tp.date.now("yyyy-MM-DD", -1, tp.file.title, "gggg年MM月DD-第W周") %>) AND (done after <% tp.date.now("yyyy-MM-DD", -9, tp.file.title, "gggg年MM月DD-第W周")%>)
 ```
 
 # 上周未完成任务
@@ -26,8 +26,8 @@ starts after <% tp.date.now("yyyy-MM-DD", -8, tp.file.title, "gggg年MM月DD-第
 not done
 has start date
 sort by start desc
-starts before <% tp.date.now("yyyy-MM-DD", 0, tp.file.title, "gggg年MM月DD-第W周") %>
-starts after  <% tp.date.now("yyyy-MM-DD", -8, tp.file.title, "gggg年MM月DD-第W周") %>
+(starts before  <% tp.date.now("yyyy-MM-DD", -1, tp.file.title, "gggg年MM月DD-第W周") %>)   AND (starts after <% tp.date.now("yyyy-MM-DD", -9, tp.file.title, "gggg年MM月DD-第W周") %>) 
+
 ```
 
 

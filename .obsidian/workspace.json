@@ -23,6 +23,19 @@
             }
           },
           {
+            "id": "ca9347abbd1ce3ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Diary/Weekly/2023年02月20日-第8周.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "fbbf3c7c11d688a6",
             "type": "leaf",
             "pinned": true,
@@ -53,19 +66,6 @@
             }
           },
           {
-            "id": "98a107590ca6c31d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Diary/Weekly/2023年02月20日-第8周.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "c809a5bfa1560322",
             "type": "leaf",
             "pinned": true,
@@ -81,7 +81,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -266,20 +266,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false,
       "workspaces:管理工作区布局": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "98a107590ca6c31d",
+  "active": "ca9347abbd1ce3ed",
   "lastOpenFiles": [
-    "Pub/Tutorial/Unsort/考公计划.md",
+    "Diary/Weekly/2023年02月27日-第9周.md",
     "Diary/Weekly/2023年02月20日-第8周.md",
+    "Pub/Papers/社会公众对HPV疫苗的关注热点分析_基于新浪微博数据.md",
+    "Pub/Tutorial/Huggingface系列/HuggingFace基础教程(一).md",
+    "Pub/Tutorial/Unsort/毕业论文大纲.md",
+    "Src/Temp/Weekly Summary.md",
+    "Pub/Tutorial/Unsort/考公计划.md",
     "Diary/Yearly/2023成长思考.md",
     "Diary/Weekly/2023年01月16日-第3周.md",
-    "Diary/Plan/ToDo.md",
-    "Pub/Tutorial/Unsort/毕业论文大纲.md",
-    "Pub/Tutorial/Huggingface系列/HuggingFace基础教程(一).md",
-    "Pub/Papers/社会公众对HPV疫苗的关注热点分析_基于新浪微博数据.md",
-    "Pub/Life/对爱情的理解.md",
-    "Src/Temp/Weekly Summary.md"
+    "Diary/Plan/ToDo.md"
   ]
 }
