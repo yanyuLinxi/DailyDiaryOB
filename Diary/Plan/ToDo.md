@@ -34,3 +34,4 @@ description does not include #watch
 - [ ] obsidian搭建教程，介绍几个插件quickadd, tasks等 #towrite 
 - [ ] 做一个摘要分享 [内心强大的人应该与自己交流](https://www.zhihu.com/question/520495704/answer/2457153119) #towrite
 - [ ] 日后机器学习学习计划 #towrite
+- [ ] 抬眼望最美丽的银河，低头一步一步走，参考Naxxxx的聊天和黄楚的聊天。 #towrite

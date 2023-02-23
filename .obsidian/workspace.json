@@ -101,7 +101,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pub/Tutorial/Unsort/致谢.md",
+                "file": "Pub/Tutorial/公考/考公计划.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -164,7 +164,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#todo",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pub/Tutorial/Unsort/致谢.md"
+                "file": "Pub/Tutorial/公考/考公计划.md"
               }
             }
           },
@@ -228,7 +228,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pub/Tutorial/Unsort/致谢.md",
+                "file": "Pub/Tutorial/公考/考公计划.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -245,7 +245,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pub/Tutorial/Unsort/致谢.md",
+                "file": "Pub/Tutorial/公考/考公计划.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -275,7 +275,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Pub/Tutorial/Unsort/致谢.md",
+                "file": "Pub/Tutorial/公考/考公计划.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -326,14 +326,14 @@
   "active": "da9d84b11b32fb45",
   "lastOpenFiles": [
     "Diary/Weekly/2023年02月20日-第8周.md",
+    "Pub/Tutorial/Unsort/奇思妙想.md",
+    "Diary/Plan/ToDo.md",
+    "Diary/Plan/Watch.md",
+    "Diary/Plan/Write.md",
+    "Pub/Tutorial/Unsort/致谢.md",
     "Pub/Tutorial/公考/公考-判断推理-图形推理.md",
     "Pub/Tutorial/公考/考公计划.md",
     "Pub/Tutorial/Unsort/毕业论文大纲.md",
-    "Pub/Tutorial/Unsort/奇思妙想.md",
-    "Diary/Yearly/2023成长思考.md",
-    "Diary/Weekly/2023年02月27日-第9周.md",
-    "Diary/Plan/ToDo.md",
-    "Pub/Tutorial/Huggingface系列/HuggingFace基础教程(一).md",
-    "Pub/Papers/社会公众对HPV疫苗的关注热点分析_基于新浪微博数据.md"
+    "Diary/Yearly/2023成长思考.md"
   ]
 }
