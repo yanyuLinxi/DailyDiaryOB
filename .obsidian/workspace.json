@@ -263,7 +263,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "d60f95569d51200c",
@@ -309,8 +310,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 230.5,
-    "collapsed": true
+    "width": 230.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -325,7 +325,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "da9d84b11b32fb45",
+  "active": "bffd2694f1ed81bb",
   "lastOpenFiles": [
     "Pics/Pasted image 20230224090902.png",
     "Pics/Pasted image 20230224090742.png",
