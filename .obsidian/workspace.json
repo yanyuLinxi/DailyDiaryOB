@@ -133,19 +133,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "defa9c7fe0718587",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.15"
-              }
-            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -335,11 +325,22 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "defa9c7fe0718587",
+  "active": "da9d84b11b32fb45",
   "lastOpenFiles": [
+    "Pics/Pasted image 20230224090902.png",
+    "Pics/Pasted image 20230224090742.png",
+    "Pics/Pasted image 20230224090717.png",
+    "Pics/Pasted image 20230224090710.png",
+    "Pics/Pasted image 20230224090637.png",
+    "Pics/Pasted image 20230224090548.png",
+    "Pics/Pasted image 20230224090512.png",
+    "Pics/Pasted image 20230224090451.png",
+    "Pics/Pasted image 20230224090330.png",
+    "Pics/Pasted image 20230224090306.png",
+    "Pics/Pasted image 20230224090302.png",
+    "Pub/Tutorial/Unsort/奇思妙想.md",
     "Pub/Tutorial/公考/考公计划.md",
     "Diary/Weekly/2023年02月20日-第8周.md",
-    "Pub/Tutorial/Unsort/奇思妙想.md",
     "Diary/Plan/ToDo.md",
     "Diary/Plan/Watch.md",
     "Diary/Plan/Write.md",

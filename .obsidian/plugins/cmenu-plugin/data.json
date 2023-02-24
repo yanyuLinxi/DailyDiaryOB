@@ -59,7 +59,12 @@
     {
       "id": "obsidian-plugin-toc:create-toc",
       "name": "Table of Contents: Create table of contents",
-      "icon": "checkbox-glyph"
+      "icon": "bullet-list"
+    },
+    {
+      "id": "obsidian-dynamic-toc:dynamic-toc-insert-command",
+      "name": "Dynamic Table of Contents: Insert Table of Contents",
+      "icon": "bullet-list"
     }
   ],
   "appendMethod": "workspace",

@@ -12,5 +12,6 @@
   "templater-obsidian",
   "obsidian-title-serial-number-plugin",
   "cmenu-plugin",
+  "obsidian-dynamic-toc",
   "obsidian-plugin-toc"
 ]
