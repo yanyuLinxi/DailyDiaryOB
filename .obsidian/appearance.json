@@ -2,5 +2,6 @@
   "accentColor": "#e06bef",
   "theme": "moonstone",
   "cssTheme": "Blue Topaz",
-  "translucency": false
+  "translucency": false,
+  "baseFontSize": 15
 }

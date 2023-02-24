@@ -9,5 +9,8 @@
   "obsidian-better-command-palette",
   "obsidian-tasks-plugin",
   "obsidian-hypothesis-plugin",
-  "templater-obsidian"
+  "templater-obsidian",
+  "obsidian-title-serial-number-plugin",
+  "cmenu-plugin",
+  "obsidian-plugin-toc"
 ]

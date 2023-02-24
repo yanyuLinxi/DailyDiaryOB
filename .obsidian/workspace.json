@@ -101,7 +101,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diary/Weekly/2023年02月20日-第8周.md",
+                "file": "Pub/Tutorial/公考/公考-判断推理-图形推理.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -133,9 +133,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "defa9c7fe0718587",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.15"
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -185,7 +195,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "70a798a42b88ff1c",
@@ -210,7 +221,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diary/Weekly/2023年02月20日-第8周.md"
+                "file": "Pub/Tutorial/公考/公考-判断推理-图形推理.md"
               }
             }
           },
@@ -228,7 +239,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diary/Weekly/2023年02月20日-第8周.md",
+                "file": "Pub/Tutorial/公考/公考-判断推理-图形推理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -245,7 +256,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diary/Weekly/2023年02月20日-第8周.md",
+                "file": "Pub/Tutorial/公考/公考-判断推理-图形推理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -275,7 +286,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Diary/Weekly/2023年02月20日-第8周.md",
+                "file": "Pub/Tutorial/公考/公考-判断推理-图形推理.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -298,7 +309,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.713275462622442,
+                  "scale": 0.21860383599018704,
                   "close": false
                 }
               }
@@ -308,13 +319,14 @@
       }
     ],
     "direction": "horizontal",
-    "width": 230.5
+    "width": 230.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "canvas:新建白板": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
-      "canvas:Create new canvas": false,
       "daily-notes:打开/创建今天的日记": false,
       "command-palette:打开命令面板": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
@@ -323,7 +335,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "da9d84b11b32fb45",
+  "active": "defa9c7fe0718587",
   "lastOpenFiles": [
     "Pub/Tutorial/公考/考公计划.md",
     "Diary/Weekly/2023年02月20日-第8周.md",

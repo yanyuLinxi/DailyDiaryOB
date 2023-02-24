@@ -38,5 +38,13 @@
       ],
       "key": "ArrowDown"
     }
+  ],
+  "obsidian-title-serial-number-plugin:set-title-serial-number-editor-command": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "T"
+    }
   ]
 }
