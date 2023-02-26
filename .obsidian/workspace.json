@@ -103,7 +103,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diary/Weekly/2023年02月20日-第8周.md",
+                "file": "Pub/Tutorial/Unsort/个人成果.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -187,8 +187,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "70a798a42b88ff1c",
@@ -213,7 +212,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diary/Weekly/2023年02月20日-第8周.md"
+                "file": "Pub/Tutorial/Unsort/个人成果.md"
               }
             }
           },
@@ -231,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diary/Weekly/2023年02月20日-第8周.md",
+                "file": "Pub/Tutorial/Unsort/个人成果.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -248,7 +247,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diary/Weekly/2023年02月20日-第8周.md",
+                "file": "Pub/Tutorial/Unsort/个人成果.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -279,7 +278,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Diary/Weekly/2023年02月20日-第8周.md",
+                "file": "Pub/Tutorial/Unsort/个人成果.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
