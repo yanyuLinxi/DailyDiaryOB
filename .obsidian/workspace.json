@@ -152,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -228,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pub/Tutorial/公考/考公计划.md"
+                "file": "Pub/Tutorial/公考/公考-判断推理-类比推理.md"
               }
             }
           },
@@ -246,7 +246,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pub/Tutorial/公考/考公计划.md",
+                "file": "Pub/Tutorial/公考/公考-判断推理-类比推理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -263,7 +263,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pub/Tutorial/公考/考公计划.md",
+                "file": "Pub/Tutorial/公考/公考-判断推理-类比推理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -294,7 +294,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Pub/Tutorial/公考/考公计划.md",
+                "file": "Pub/Tutorial/公考/公考-判断推理-类比推理.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -342,9 +342,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c809a5bfa1560322",
+  "active": "ffefbd74942f36cd",
   "lastOpenFiles": [
     "Pub/Tutorial/公考/公考-判断推理-图形推理.md",
+    "Pub/Tutorial/公考/考公计划.md",
     "Pub/Tutorial/公考/公考-判断推理-类比推理.md",
     "Pics/Pasted image 20230227162127.png",
     "Pics/Pasted image 20230227161749.png",
@@ -358,7 +359,6 @@
     "Pics/Pasted image 20230227102536.png",
     "Pub/Tutorial/Unsort/![[Pics/Pasted image 20230227100634.png]].md",
     "Pub/Tutorial/Unsort/![[Pics",
-    "Pub/Tutorial/公考/考公计划.md",
     "Diary/Weekly/2023年02月27日-第9周.md",
     "Diary/Weekly/2023年02月20日-第8周.md",
     "Src/Temp/Weekly Summary.md",
