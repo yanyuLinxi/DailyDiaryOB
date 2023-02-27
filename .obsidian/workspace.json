@@ -113,6 +113,7 @@
           {
             "id": "ffefbd74942f36cd",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -120,7 +121,8 @@
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              }
+              },
+              "pinned": true
             }
           },
           {
@@ -342,21 +344,21 @@
   },
   "active": "ffefbd74942f36cd",
   "lastOpenFiles": [
+    "Pics/Pasted image 20230227155617.png",
+    "Pics/Pasted image 20230227154938.png",
+    "Pics/Pasted image 20230227152917.png",
+    "Pics/Pasted image 20230227152851.png",
+    "Pics/Pasted image 20230227152825.png",
+    "Pub/Tutorial/公考/公考-判断推理-图形推理.md",
+    "Pub/Tutorial/公考/公考-判断推理-类比推理.md",
     "Pics/Pasted image 20230227105006.png",
     "Pics/Pasted image 20230227102611.png",
     "Pics/Pasted image 20230227102536.png",
     "Pics/Pasted image 20230227102527.png",
     "Pics/Pasted image 20230227102523.png",
     "Pics/Pasted image 20230227102505.png",
-    "Pub/Tutorial/公考/公考-判断推理-图形推理.md",
-    "Pub/Tutorial/公考/公考-判断推理-类比推理.md",
     "Pub/Tutorial/Unsort/![[Pics/Pasted image 20230227100634.png]].md",
     "Pub/Tutorial/Unsort/![[Pics",
-    "Pics/Pasted image 20230227100634.png",
-    "Pics/Pasted image 20230227094056.png",
-    "Pics/Pasted image 20230227093922.png",
-    "Pics/Pasted image 20230227093902.png",
-    "Pics/Pasted image 20230227093839.png",
     "Pub/Tutorial/公考/考公计划.md",
     "Diary/Weekly/2023年02月27日-第9周.md",
     "Diary/Weekly/2023年02月20日-第8周.md",
