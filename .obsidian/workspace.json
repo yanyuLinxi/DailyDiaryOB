@@ -83,6 +83,19 @@
             }
           },
           {
+            "id": "aa247d26eaa575ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pub/Tutorial/Unsort/公考-判断推理-定义判断.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "4bfd42ac13aad405",
             "type": "leaf",
             "pinned": true,
@@ -98,7 +111,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -148,7 +161,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "70a798a42b88ff1c",
@@ -173,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pub/Tutorial/公考/公考-判断推理-类比推理.md"
+                "file": "Pub/Tutorial/Unsort/公考-判断推理-定义判断.md"
               }
             }
           },
@@ -191,7 +205,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pub/Tutorial/公考/公考-判断推理-类比推理.md",
+                "file": "Pub/Tutorial/Unsort/公考-判断推理-定义判断.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,7 +222,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pub/Tutorial/公考/公考-判断推理-类比推理.md",
+                "file": "Pub/Tutorial/Unsort/公考-判断推理-定义判断.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -239,7 +253,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Pub/Tutorial/公考/公考-判断推理-类比推理.md",
+                "file": "Pub/Tutorial/Unsort/公考-判断推理-定义判断.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -287,12 +301,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ffefbd74942f36cd",
+  "active": "aa247d26eaa575ed",
   "lastOpenFiles": [
+    "Pics/Pasted image 20230227192158.png",
+    "Pics/Pasted image 20230227192143.png",
+    "Pub/Tutorial/公考/公考-判断推理-类比推理.md",
+    "Pub/Tutorial/Unsort/公考-判断推理-定义判断.md",
     "Pics/Pasted image 20230227173022.png",
     "Diary/Weekly/2023年02月27日-第9周.md",
     "Pub/Tutorial/Unsort/奇思妙想.md",
-    "Pub/Tutorial/公考/公考-判断推理-类比推理.md",
     "Pub/Tutorial/公考/公考-判断推理-图形推理.md",
     "Pub/Tutorial/Unsort/毕业论文大纲.md",
     "Pub/Tutorial/Huggingface系列/HuggingFace基础教程(一).md",
@@ -308,8 +325,6 @@
     "Pics/Pasted image 20230227152851.png",
     "Pics/Pasted image 20230227152825.png",
     "Pics/Pasted image 20230227105006.png",
-    "Pics/Pasted image 20230227102611.png",
-    "Pics/Pasted image 20230227102536.png",
     "Pub/Tutorial/Unsort/![[Pics/Pasted image 20230227100634.png]].md",
     "Pub/Tutorial/Unsort/![[Pics",
     "Src/Temp/Weekly Summary.md",
