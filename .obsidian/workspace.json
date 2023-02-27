@@ -96,6 +96,19 @@
             }
           },
           {
+            "id": "343fad9a1d0d9db4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pub/Tutorial/Unsort/公考-判断推理-逻辑判断.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "4bfd42ac13aad405",
             "type": "leaf",
             "pinned": true,
@@ -111,7 +124,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -187,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pub/Tutorial/Unsort/公考-判断推理-定义判断.md"
+                "file": "Pub/Tutorial/Unsort/公考-判断推理-逻辑判断.md"
               }
             }
           },
@@ -205,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pub/Tutorial/Unsort/公考-判断推理-定义判断.md",
+                "file": "Pub/Tutorial/Unsort/公考-判断推理-逻辑判断.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -222,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pub/Tutorial/Unsort/公考-判断推理-定义判断.md",
+                "file": "Pub/Tutorial/Unsort/公考-判断推理-逻辑判断.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -253,7 +266,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Pub/Tutorial/Unsort/公考-判断推理-定义判断.md",
+                "file": "Pub/Tutorial/Unsort/公考-判断推理-逻辑判断.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -301,15 +314,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "aa247d26eaa575ed",
+  "active": "343fad9a1d0d9db4",
   "lastOpenFiles": [
+    "Pub/Tutorial/Unsort/公考-判断推理-定义判断.md",
+    "Pub/Tutorial/公考/考公计划.md",
+    "Pub/Tutorial/Unsort/公考-判断推理-逻辑判断.md",
+    "Pics/Pasted image 20230227205700.png",
+    "Pics/Pasted image 20230227204758.png",
     "Pics/Pasted image 20230227202534.png",
     "Pics/Pasted image 20230227200539.png",
     "Pics/Pasted image 20230227200517.png",
     "Pics/Pasted image 20230227192158.png",
     "Pics/Pasted image 20230227192143.png",
     "Pub/Tutorial/公考/公考-判断推理-类比推理.md",
-    "Pub/Tutorial/Unsort/公考-判断推理-定义判断.md",
     "Pics/Pasted image 20230227173022.png",
     "Diary/Weekly/2023年02月27日-第9周.md",
     "Pub/Tutorial/Unsort/奇思妙想.md",
@@ -319,12 +336,8 @@
     "Diary/Plan/ToDo.md",
     "Diary/Weekly/2023年02月20日-第8周.md",
     "Diary/Yearly/2023成长思考.md",
-    "Pub/Tutorial/公考/考公计划.md",
     "Pics/Pasted image 20230227162127.png",
     "Pics/Pasted image 20230227161749.png",
-    "Pics/Pasted image 20230227155617.png",
-    "Pics/Pasted image 20230227154938.png",
-    "Pics/Pasted image 20230227152917.png",
     "Pub/Tutorial/Unsort/![[Pics/Pasted image 20230227100634.png]].md",
     "Pub/Tutorial/Unsort/![[Pics",
     "Src/Temp/Weekly Summary.md",
