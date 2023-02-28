@@ -124,7 +124,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -200,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pub/Tutorial/公考/公考-判断推理-图形推理.md"
+                "file": "Pub/Tutorial/Unsort/公考-判断推理-逻辑判断.md"
               }
             }
           },
@@ -218,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pub/Tutorial/公考/公考-判断推理-图形推理.md",
+                "file": "Pub/Tutorial/Unsort/公考-判断推理-逻辑判断.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pub/Tutorial/公考/公考-判断推理-图形推理.md",
+                "file": "Pub/Tutorial/Unsort/公考-判断推理-逻辑判断.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -266,7 +266,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Pub/Tutorial/公考/公考-判断推理-图形推理.md",
+                "file": "Pub/Tutorial/Unsort/公考-判断推理-逻辑判断.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -314,13 +314,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "da9d84b11b32fb45",
+  "active": "343fad9a1d0d9db4",
   "lastOpenFiles": [
+    "Diary/Weekly/2023年02月27日-第9周.md",
     "Pub/Tutorial/Unsort/公考-判断推理-逻辑判断.md",
     "Pub/Tutorial/Unsort/公考-判断推理-定义判断.md",
     "Pub/Tutorial/公考/公考-判断推理-类比推理.md",
     "Pub/Tutorial/公考/公考-判断推理-图形推理.md",
-    "Diary/Weekly/2023年02月27日-第9周.md",
     "Diary/Plan/ToDo.md",
     "Pub/Tutorial/Unsort/毕业论文大纲.md",
     "Pub/Tutorial/公考/考公计划.md",
