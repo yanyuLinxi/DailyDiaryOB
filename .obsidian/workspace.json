@@ -53,49 +53,6 @@
             }
           },
           {
-            "id": "da9d84b11b32fb45",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pub/Tutorial/公考/公考-判断推理-图形推理.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "ffefbd74942f36cd",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pub/Tutorial/公考/公考-判断推理-类比推理.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "343fad9a1d0d9db4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pub/Tutorial/Unsort/HPV舆论分析报告第二版.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "4bfd42ac13aad405",
             "type": "leaf",
             "pinned": true,
@@ -109,9 +66,50 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "94ef108ef48c1d69",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pub/Tutorial/公考/公考-资料分析.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "ad4eb9e4231a116b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pub/Tutorial/公考/公考-判断推理-定义判断.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "35df10fc49d78168",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pub/Tutorial/公考/公考-判断推理-逻辑判断.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -161,7 +159,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "70a798a42b88ff1c",
@@ -186,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pub/Tutorial/Unsort/HPV舆论分析报告第二版.md"
+                "file": "Pub/Tutorial/公考/公考-资料分析.md"
               }
             }
           },
@@ -204,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pub/Tutorial/Unsort/HPV舆论分析报告第二版.md",
+                "file": "Pub/Tutorial/公考/公考-资料分析.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,7 +220,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pub/Tutorial/Unsort/HPV舆论分析报告第二版.md",
+                "file": "Pub/Tutorial/公考/公考-资料分析.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -252,7 +251,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Pub/Tutorial/Unsort/HPV舆论分析报告第二版.md",
+                "file": "Pub/Tutorial/公考/公考-资料分析.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -300,14 +299,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "343fad9a1d0d9db4",
+  "active": "94ef108ef48c1d69",
   "lastOpenFiles": [
-    "Pub/Tutorial/公考/公考-判断推理-类比推理.md",
-    "Pub/Tutorial/Unsort/HPV舆论分析项目-杨帆老师项目待做.md",
-    "Pub/Tutorial/Unsort/HPV舆论分析报告第二版.md",
-    "outputPDF/HPV舆论分析报告第二版.pdf",
     "Diary/Weekly/2023年02月27日-第9周.md",
-    "Pub/Tutorial/Unsort/公考-判断推理-逻辑判断.md",
+    "Pub/Tutorial/公考/公考-资料分析.md",
+    "Pub/Tutorial/公考/考公计划.md",
+    "Diary/Plan/ToDo.md",
+    "Pub/Tutorial/公考/公考-判断推理-逻辑判断.md",
+    "Pub/Tutorial/公考/公考-判断推理-定义判断.md",
+    "Pub/Tutorial/公考/公考-判断推理-图形推理.md",
+    "Pub/Tutorial/公考/公考-判断推理-类比推理.md",
+    "Pub/Tutorial/Unsort/HPV舆论分析报告第二版.md",
+    "Pub/Tutorial/Unsort/HPV舆论分析项目-杨帆老师项目待做.md",
+    "outputPDF/HPV舆论分析报告第二版.pdf",
     "Pics/Pasted image 20230228203836.png",
     "Pics/Pasted image 20230228202403.png",
     "Pics/Pasted image 20230228202352.png",
@@ -319,10 +323,6 @@
     "Pics/Pasted image 20230228113633.png",
     "Pics/Pasted image 20230228113600.png",
     "Pics/Pasted image 20230228112649.png",
-    "Pub/Tutorial/Unsort/公考-判断推理-定义判断.md",
-    "Pub/Tutorial/公考/公考-判断推理-图形推理.md",
-    "Pub/Tutorial/公考/考公计划.md",
-    "Diary/Plan/ToDo.md",
     "Pub/Tutorial/Unsort/奇思妙想.md",
     "Pub/Tutorial/Huggingface系列/HuggingFace基础教程(一).md",
     "Diary/Weekly/2023年02月20日-第8周.md",
