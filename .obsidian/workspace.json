@@ -88,7 +88,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pub/Tutorial/公考/公考-判断推理-定义判断.md",
+                "file": "Pub/Tutorial/公考/公考-资料分析.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -101,7 +101,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pub/Tutorial/公考/公考-资料分析.md",
+                "file": "Pub/Tutorial/公考/公考-判断推理-图形推理.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -109,7 +109,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -159,7 +159,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "70a798a42b88ff1c",
@@ -298,30 +299,31 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "35df10fc49d78168",
+  "active": "ad4eb9e4231a116b",
   "lastOpenFiles": [
-    "Pub/Tutorial/公考/公考-判断推理-类比推理.md",
-    "Pub/Tutorial/公考/公考-判断推理-定义判断.md",
+    "Pics/Pasted image 20230302085635.png",
+    "Pics/Pasted image 20230302084933.png",
+    "Pics/Pasted image 20230302084918.png",
+    "Pics/Pasted image 20230302084832.png",
+    "Pics/Pasted image 20230302084719.png",
+    "Pics/Pasted image 20230302084638.png",
+    "Pics/Pasted image 20230302084542.png",
+    "Pics/Pasted image 20230302083444.png",
+    "Pics/Pasted image 20230302083412.png",
+    "Pics/Pasted image 20230302083355.png",
+    "Pics/Pasted image 20230302083338.png",
     "Pub/Tutorial/公考/公考-判断推理-图形推理.md",
     "Pub/Tutorial/公考/公考-判断推理-逻辑判断.md",
+    "Pub/Tutorial/公考/公考-资料分析.md",
+    "Pub/Tutorial/公考/公考-判断推理-定义判断.md",
+    "Pub/Tutorial/公考/公考-判断推理-类比推理.md",
     "Diary/Weekly/2023年02月27日-第9周.md",
     "Pub/Tutorial/公考/考公计划.md",
     "Pub/Tutorial/Unsort/毕业论文大纲.md",
-    "Pub/Tutorial/公考/公考-资料分析.md",
-    "Pics/Pasted image 20230301193935.png",
-    "Pics/Pasted image 20230301193729.png",
-    "Pics/Pasted image 20230301193711.png",
     "Diary/Plan/ToDo.md",
     "Pub/Tutorial/Unsort/HPV舆论分析报告第二版.md",
     "Pub/Tutorial/Unsort/HPV舆论分析项目-杨帆老师项目待做.md",
     "outputPDF/HPV舆论分析报告第二版.pdf",
-    "Pics/Pasted image 20230228203836.png",
-    "Pics/Pasted image 20230228202403.png",
-    "Pics/Pasted image 20230228202352.png",
-    "Pics/Pasted image 20230228194727.png",
-    "Pics/Pasted image 20230228194519.png",
-    "Pics/Pasted image 20230228165341.png",
-    "Pics/Pasted image 20230228113725.png",
     "Pub/Tutorial/Unsort/奇思妙想.md",
     "Pub/Tutorial/Huggingface系列/HuggingFace基础教程(一).md",
     "Diary/Weekly/2023年02月20日-第8周.md",
