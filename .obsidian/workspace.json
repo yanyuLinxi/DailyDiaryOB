@@ -53,6 +53,29 @@
             }
           },
           {
+            "id": "5c5d56aa7b2085f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pub/Tutorial/公考/公考-数字推理-广州.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e26adf10083b8571",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.16"
+              }
+            }
+          },
+          {
             "id": "4bfd42ac13aad405",
             "type": "leaf",
             "pinned": true,
@@ -109,7 +132,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -159,8 +182,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "70a798a42b88ff1c",
@@ -185,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pub/Tutorial/公考/考公计划.md"
+                "file": "Pub/Tutorial/公考/公考-数字推理-广州.md"
               }
             }
           },
@@ -203,7 +225,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pub/Tutorial/公考/考公计划.md",
+                "file": "Pub/Tutorial/公考/公考-数字推理-广州.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,7 +242,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pub/Tutorial/公考/考公计划.md",
+                "file": "Pub/Tutorial/公考/公考-数字推理-广州.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -251,7 +273,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Pub/Tutorial/公考/考公计划.md",
+                "file": "Pub/Tutorial/公考/公考-数字推理-广州.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -299,11 +321,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c809a5bfa1560322",
+  "active": "e26adf10083b8571",
   "lastOpenFiles": [
+    "Pics/Pasted image 20230302220808.png",
+    "Pics/Pasted image 20230302220802.png",
+    "Pics/Pasted image 20230302220220.png",
+    "Pub/Tutorial/公考/考公计划.md",
+    "Pub/Tutorial/公考/公考-数字推理-广州.md",
     "Diary/Weekly/2023年02月27日-第9周.md",
     "Pub/Tutorial/公考/公考-资料分析.md",
-    "Pub/Tutorial/公考/考公计划.md",
     "Pics/Pasted image 20230302151839.png",
     "Pics/Pasted image 20230302104414.png",
     "Pics/Pasted image 20230302092418.png",
@@ -312,8 +338,6 @@
     "Pics/Pasted image 20230302084918.png",
     "Pics/Pasted image 20230302084832.png",
     "Pics/Pasted image 20230302084719.png",
-    "Pics/Pasted image 20230302084638.png",
-    "Pics/Pasted image 20230302084542.png",
     "Pub/Tutorial/公考/公考-判断推理-图形推理.md",
     "Pub/Tutorial/公考/公考-判断推理-逻辑判断.md",
     "Pub/Tutorial/公考/公考-判断推理-定义判断.md",
