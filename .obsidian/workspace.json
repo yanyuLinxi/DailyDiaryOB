@@ -29,52 +29,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pub/Tutorial/Unsort/毕业论文大纲.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "c809a5bfa1560322",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pub/Tutorial/公考/考公计划.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "4bfd42ac13aad405",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Diary/Weekly/2023年02月27日-第9周.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "94ef108ef48c1d69",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pub/Tutorial/公考/公考-资料分析.md",
+                "file": "Pub/Papers/毕业论文/毕业论文大纲.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -85,6 +40,7 @@
           {
             "id": "ad4eb9e4231a116b",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -92,16 +48,17 @@
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              }
+              },
+              "pinned": true
             }
           },
           {
-            "id": "35df10fc49d78168",
+            "id": "959163e8917a94b6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pub/Tutorial/公考/公考-判断推理-图形推理.md",
+                "file": "Pub/Project/杨帆老师项目/HPV舆论分析报告第二版.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -109,7 +66,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -184,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diary/Weekly/2023年03月06日-第10周.md"
+                "file": "Pub/Project/杨帆老师项目/HPV舆论分析报告第二版.md"
               }
             }
           },
@@ -202,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diary/Weekly/2023年03月06日-第10周.md",
+                "file": "Pub/Project/杨帆老师项目/HPV舆论分析报告第二版.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diary/Weekly/2023年03月06日-第10周.md",
+                "file": "Pub/Project/杨帆老师项目/HPV舆论分析报告第二版.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -249,7 +206,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Diary/Weekly/2023年03月06日-第10周.md",
+                "file": "Pub/Project/杨帆老师项目/HPV舆论分析报告第二版.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -297,14 +254,24 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ad4eb9e4231a116b",
+  "active": "959163e8917a94b6",
   "lastOpenFiles": [
-    "Pub/Tutorial/公考/考公计划.md",
+    "Pub/Papers/毕业论文/致谢.md",
+    "Pub/Papers/Others/奇思妙想.md",
+    "Pub/Papers/Others/个人成果.md",
+    "Pub/Project/杨帆老师项目/HPV舆论分析项目-杨帆老师项目待做.md",
+    "Pub/Papers/Others",
+    "Pub/Papers/毕业论文",
     "Diary/Weekly/2023年03月06日-第10周.md",
-    "Diary/Weekly/2023年02月27日-第9周.md",
+    "Pub/Project/杨帆老师项目",
+    "Pub/Project",
+    "Pub/Papers/毕业论文/毕业论文大纲.md",
+    "Pub/Tutorial/公考/考公计划.md",
     "Pub/Tutorial/公考/公考-资料分析.md",
+    "Diary/Weekly/2023年02月27日-第9周.md",
+    "Pub/Tutorial/公考/公务员的有关思考.md",
+    "Pub/Tutorial/公考/公考-判断推理-图形推理.md",
     "Diary/Plan/ToDo.md",
-    "Pub/Tutorial/Unsort/毕业论文大纲.md",
     "Pub/Tutorial/公考/公考-数字推理-广州.md",
     "Pics/Pasted image 20230302220808.png",
     "Pics/Pasted image 20230302220802.png",
@@ -316,27 +283,22 @@
     "Pics/Pasted image 20230302084933.png",
     "Pics/Pasted image 20230302084918.png",
     "Pics/Pasted image 20230302084832.png",
-    "Pub/Tutorial/公考/公考-判断推理-图形推理.md",
     "Pub/Tutorial/公考/公考-判断推理-逻辑判断.md",
     "Pub/Tutorial/公考/公考-判断推理-定义判断.md",
     "Pub/Tutorial/公考/公考-判断推理-类比推理.md",
-    "Pub/Tutorial/Unsort/HPV舆论分析报告第二版.md",
-    "Pub/Tutorial/Unsort/HPV舆论分析项目-杨帆老师项目待做.md",
+    "Pub/Project/杨帆老师项目/HPV舆论分析报告第二版.md",
     "outputPDF/HPV舆论分析报告第二版.pdf",
-    "Pub/Tutorial/Unsort/奇思妙想.md",
     "Pub/Tutorial/Huggingface系列/HuggingFace基础教程(一).md",
     "Diary/Weekly/2023年02月20日-第8周.md",
     "Diary/Yearly/2023成长思考.md",
     "Pub/Tutorial/Unsort/![[Pics/Pasted image 20230227100634.png]].md",
     "Pub/Tutorial/Unsort/![[Pics",
     "Src/Temp/Weekly Summary.md",
-    "Pub/Tutorial/Unsort/个人成果.md",
     "outputPDF/公考-判断推理-图形推理2.pdf",
     "outputPDF/公考-判断推理-图形推理.pdf",
     "outputPDF",
     "新建文件夹",
     "Diary/Plan/Watch.md",
-    "Diary/Plan/Write.md",
-    "Pub/Tutorial/Unsort/致谢.md"
+    "Diary/Plan/Write.md"
   ]
 }
