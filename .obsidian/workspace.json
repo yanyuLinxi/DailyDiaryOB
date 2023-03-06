@@ -51,22 +51,9 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "959163e8917a94b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pub/Project/杨帆老师项目/HPV舆论分析报告第二版.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -141,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pub/Project/杨帆老师项目/HPV舆论分析报告第二版.md"
+                "file": "Diary/Weekly/2023年03月06日-第10周.md"
               }
             }
           },
@@ -159,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pub/Project/杨帆老师项目/HPV舆论分析报告第二版.md",
+                "file": "Diary/Weekly/2023年03月06日-第10周.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pub/Project/杨帆老师项目/HPV舆论分析报告第二版.md",
+                "file": "Diary/Weekly/2023年03月06日-第10周.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +193,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Pub/Project/杨帆老师项目/HPV舆论分析报告第二版.md",
+                "file": "Diary/Weekly/2023年03月06日-第10周.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -254,8 +241,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "959163e8917a94b6",
+  "active": "ad4eb9e4231a116b",
   "lastOpenFiles": [
+    "Pub/Project/杨帆老师项目/HPV舆论分析报告第二版.md",
     "Pub/Papers/毕业论文/致谢.md",
     "Pub/Papers/Others/奇思妙想.md",
     "Pub/Papers/Others/个人成果.md",
@@ -286,7 +274,6 @@
     "Pub/Tutorial/公考/公考-判断推理-逻辑判断.md",
     "Pub/Tutorial/公考/公考-判断推理-定义判断.md",
     "Pub/Tutorial/公考/公考-判断推理-类比推理.md",
-    "Pub/Project/杨帆老师项目/HPV舆论分析报告第二版.md",
     "outputPDF/HPV舆论分析报告第二版.pdf",
     "Pub/Tutorial/Huggingface系列/HuggingFace基础教程(一).md",
     "Diary/Weekly/2023年02月20日-第8周.md",
