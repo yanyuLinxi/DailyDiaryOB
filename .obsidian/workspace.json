@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pub/Tutorial/公考/公考-资料分析.md",
+                "file": "Pub/Tutorial/公考/公考-数字推理-广州.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -81,7 +81,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diary/Weekly/2023年03月06日-第10周.md"
+                "file": "Pub/Tutorial/公考/公考-数字推理-广州.md"
               }
             }
           },
@@ -174,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diary/Weekly/2023年03月06日-第10周.md",
+                "file": "Pub/Tutorial/公考/公考-数字推理-广州.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diary/Weekly/2023年03月06日-第10周.md",
+                "file": "Pub/Tutorial/公考/公考-数字推理-广州.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +208,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "d60f95569d51200c",
@@ -221,7 +222,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Diary/Weekly/2023年03月06日-第10周.md",
+                "file": "Pub/Tutorial/公考/公考-数字推理-广州.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -269,10 +270,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ad4eb9e4231a116b",
+  "active": "dbd043839d655a06",
   "lastOpenFiles": [
-    "Pub/Tutorial/公考/考公计划.md",
     "Pub/Tutorial/公考/公考-资料分析.md",
+    "Pub/Tutorial/公考/考公计划.md",
     "Diary/Weekly/2023年03月06日-第10周.md",
     "Pub/Papers/毕业论文/毕业论文大纲.md",
     "Pub/Tutorial/公考/公务员的有关思考.md",
