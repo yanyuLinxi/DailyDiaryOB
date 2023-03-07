@@ -88,7 +88,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diary/Weekly/2023年03月06日-第10周.md",
+                "file": "Pub/Tutorial/公考/公考-数字推理-广州.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -96,7 +96,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pub/Tutorial/公考/公考-数字推理-广州.md"
+                "file": "Diary/Weekly/2023年03月06日-第10周.md"
               }
             }
           },
@@ -189,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pub/Tutorial/公考/公考-数字推理-广州.md",
+                "file": "Diary/Weekly/2023年03月06日-第10周.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,7 +206,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pub/Tutorial/公考/公考-数字推理-广州.md",
+                "file": "Diary/Weekly/2023年03月06日-第10周.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -237,7 +237,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Pub/Tutorial/公考/公考-数字推理-广州.md",
+                "file": "Diary/Weekly/2023年03月06日-第10周.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -285,12 +285,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "aa31c8322f963cce",
+  "active": "ad4eb9e4231a116b",
   "lastOpenFiles": [
-    "Diary/Weekly/2023年03月06日-第10周.md",
     "Pub/Tutorial/公考/公考-数字推理-广州.md",
-    "Pub/Tutorial/公考/公考-资料分析.md",
+    "Diary/Weekly/2023年03月06日-第10周.md",
     "Pub/Tutorial/公考/考公计划.md",
+    "Pub/Tutorial/公考/公考-资料分析.md",
     "Pub/Papers/毕业论文/毕业论文大纲.md",
     "Pub/Tutorial/公考/公务员的有关思考.md",
     "Pub/Project/杨帆老师项目/HPV舆论分析报告第二版.md",
