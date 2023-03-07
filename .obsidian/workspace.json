@@ -109,7 +109,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -185,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diary/Weekly/2023年03月06日-第10周.md"
+                "file": "Pub/Papers/毕业论文/毕业论文大纲.md"
               }
             }
           },
@@ -203,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diary/Weekly/2023年03月06日-第10周.md",
+                "file": "Pub/Papers/毕业论文/毕业论文大纲.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,7 +220,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diary/Weekly/2023年03月06日-第10周.md",
+                "file": "Pub/Papers/毕业论文/毕业论文大纲.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -251,7 +251,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Diary/Weekly/2023年03月06日-第10周.md",
+                "file": "Pub/Papers/毕业论文/毕业论文大纲.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -299,14 +299,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ad4eb9e4231a116b",
+  "active": "6bb2c06b2e7e8c59",
   "lastOpenFiles": [
-    "Pub/Tutorial/公考/公考-数字推理-广州.md",
     "Diary/Weekly/2023年03月06日-第10周.md",
+    "Pub/Papers/毕业论文/毕业论文大纲.md",
+    "Pub/Tutorial/公考/公考-数字推理-广州.md",
     "Pub/Tutorial/公考/考公计划.md",
     "Pub/Tutorial/公考/公考-数量关系.md",
     "Pub/Tutorial/公考/公考-资料分析.md",
-    "Pub/Papers/毕业论文/毕业论文大纲.md",
     "Pub/Tutorial/公考/公务员的有关思考.md",
     "Pub/Project/杨帆老师项目/HPV舆论分析报告第二版.md",
     "Pub/Papers/毕业论文/致谢.md",
