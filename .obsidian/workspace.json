@@ -53,39 +53,35 @@
             }
           },
           {
-            "id": "1f5ec9af2a4976f2",
+            "id": "2d3fb98a57b17617",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pub/Tutorial/公考/考公计划.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "e3488e6d154b3f81",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pub/Papers/毕业论文/毕业论文大纲.md",
+                "file": "Pub/Tutorial/公考/公考-资料分析.md",
                 "mode": "source",
                 "backlinks": true,
-                "source": true
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 3
-      },
-      {
-        "id": "44250b59cb6430fd",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "81d10d31caed70ad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pub/Papers/毕业论文/毕业论文大纲.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          }
-        ]
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -160,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pub/Papers/毕业论文/毕业论文大纲.md"
+                "file": "Diary/Weekly/2023年03月06日-第10周.md"
               }
             }
           },
@@ -178,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pub/Papers/毕业论文/毕业论文大纲.md",
+                "file": "Diary/Weekly/2023年03月06日-第10周.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pub/Papers/毕业论文/毕业论文大纲.md",
+                "file": "Diary/Weekly/2023年03月06日-第10周.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -225,7 +221,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Pub/Papers/毕业论文/毕业论文大纲.md",
+                "file": "Diary/Weekly/2023年03月06日-第10周.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -273,9 +269,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1f5ec9af2a4976f2",
+  "active": "ad4eb9e4231a116b",
   "lastOpenFiles": [
+    "Pub/Tutorial/公考/考公计划.md",
+    "Pub/Tutorial/公考/公考-资料分析.md",
     "Diary/Weekly/2023年03月06日-第10周.md",
+    "Pub/Papers/毕业论文/毕业论文大纲.md",
     "Pub/Tutorial/公考/公务员的有关思考.md",
     "Pub/Project/杨帆老师项目/HPV舆论分析报告第二版.md",
     "Pub/Papers/毕业论文/致谢.md",
@@ -286,9 +285,6 @@
     "Pub/Papers/毕业论文",
     "Pub/Project/杨帆老师项目",
     "Pub/Project",
-    "Pub/Papers/毕业论文/毕业论文大纲.md",
-    "Pub/Tutorial/公考/考公计划.md",
-    "Pub/Tutorial/公考/公考-资料分析.md",
     "Diary/Weekly/2023年02月27日-第9周.md",
     "Pub/Tutorial/公考/公考-判断推理-图形推理.md",
     "Diary/Plan/ToDo.md",
