@@ -83,7 +83,7 @@
             }
           },
           {
-            "id": "e3488e6d154b3f81",
+            "id": "f188aa7c62051d02",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -94,9 +94,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c498b999ca659106",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pub/Tutorial/公考/公考-数量关系.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -171,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diary/Weekly/2023年03月06日-第10周.md"
+                "file": "Pub/Tutorial/公考/考公计划.md"
               }
             }
           },
@@ -189,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diary/Weekly/2023年03月06日-第10周.md",
+                "file": "Pub/Tutorial/公考/考公计划.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diary/Weekly/2023年03月06日-第10周.md",
+                "file": "Pub/Tutorial/公考/考公计划.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -237,7 +250,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Diary/Weekly/2023年03月06日-第10周.md",
+                "file": "Pub/Tutorial/公考/考公计划.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -285,8 +298,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ad4eb9e4231a116b",
+  "active": "2d3fb98a57b17617",
   "lastOpenFiles": [
+    "Pub/Tutorial/公考/公考-数量关系.md",
     "Pub/Tutorial/公考/公考-数字推理-广州.md",
     "Diary/Weekly/2023年03月06日-第10周.md",
     "Pub/Tutorial/公考/考公计划.md",
