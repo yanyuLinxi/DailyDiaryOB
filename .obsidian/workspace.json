@@ -88,7 +88,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pub/Tutorial/公考/公考-数字推理-广州.md",
+                "file": "Pub/Papers/毕业论文/致谢.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -109,7 +109,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -159,8 +159,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "70a798a42b88ff1c",
@@ -185,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pub/Papers/毕业论文/毕业论文大纲.md"
+                "file": "Pub/Papers/毕业论文/致谢.md"
               }
             }
           },
@@ -203,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pub/Papers/毕业论文/毕业论文大纲.md",
+                "file": "Pub/Papers/毕业论文/致谢.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pub/Papers/毕业论文/毕业论文大纲.md",
+                "file": "Pub/Papers/毕业论文/致谢.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -251,7 +250,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Pub/Papers/毕业论文/毕业论文大纲.md",
+                "file": "Pub/Papers/毕业论文/致谢.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -299,10 +298,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6bb2c06b2e7e8c59",
+  "active": "f188aa7c62051d02",
   "lastOpenFiles": [
-    "Pub/Tutorial/公考/考公计划.md",
     "Pub/Papers/毕业论文/毕业论文大纲.md",
+    "Pub/Tutorial/公考/考公计划.md",
     "Diary/Plan/ToDo.md",
     "Diary/Weekly/2023年03月06日-第10周.md",
     "Pub/Tutorial/公考/公考-数字推理-广州.md",
