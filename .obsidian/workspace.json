@@ -114,7 +114,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pub/Tutorial/公考/公考-判断推理-定义判断.md",
+                "file": "Diary/Weekly/2023年03月06日-第10周.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -197,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pub/Tutorial/公考/公考-判断推理-定义判断.md"
+                "file": "Diary/Weekly/2023年03月06日-第10周.md"
               }
             }
           },
@@ -215,7 +215,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pub/Tutorial/公考/公考-判断推理-定义判断.md",
+                "file": "Diary/Weekly/2023年03月06日-第10周.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -232,7 +232,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pub/Tutorial/公考/公考-判断推理-定义判断.md",
+                "file": "Diary/Weekly/2023年03月06日-第10周.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -263,7 +263,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Pub/Tutorial/公考/公考-判断推理-定义判断.md",
+                "file": "Diary/Weekly/2023年03月06日-第10周.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -311,8 +311,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "64fb964ec475b829",
+  "active": "bffd2694f1ed81bb",
   "lastOpenFiles": [
+    "Pub/Papers/毕业论文/毕业论文大纲.md",
+    "Pub/Tutorial/公考/考公计划.md",
+    "Pub/Tutorial/公考/公考-判断推理-定义判断.md",
     "outputPDF/公考-判断推理-定义判断.pdf",
     "Pub/Tutorial/公考/公考-判断推理-类比推理.md",
     "outputPDF/公考-判断推理-类比推理.pdf",
@@ -321,14 +324,11 @@
     "Pub/Tutorial/公考/公考-判断推理-图形推理.md",
     "Pub/Tutorial/公考/公考-资料分析.md",
     "outputPDF/公考-资料分析.pdf",
-    "Pub/Tutorial/公考/公考-判断推理-定义判断.md",
     "Pub/Tutorial/公考/公务员的有关思考.md",
-    "Pub/Tutorial/公考/考公计划.md",
     "Pub/Tutorial/公考/公考-数量关系.md",
     "Pub/Tutorial/公考/公考-数字推理-广州.md",
     "Pub/Tutorial/公考/公考-申论.md",
     "Pub/Papers/毕业论文/致谢.md",
-    "Pub/Papers/毕业论文/毕业论文大纲.md",
     "Diary/Plan/ToDo.md",
     "Diary/Weekly/2023年03月06日-第10周.md",
     "Pub/Project/杨帆老师项目/HPV舆论分析报告第二版.md",
@@ -357,7 +357,6 @@
     "Pub/Tutorial/Unsort/![[Pics/Pasted image 20230227100634.png]].md",
     "Pub/Tutorial/Unsort/![[Pics",
     "Src/Temp/Weekly Summary.md",
-    "outputPDF/公考-判断推理-图形推理2.pdf",
     "Diary/Plan/Watch.md"
   ]
 }
