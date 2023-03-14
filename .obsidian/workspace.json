@@ -88,7 +88,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pub/Tutorial/公考/考公计划.md",
+                "file": "Pub/Tutorial/公考/公考-数量关系.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -122,7 +122,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -311,12 +311,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c498b999ca659106",
+  "active": "2d3fb98a57b17617",
   "lastOpenFiles": [
-    "Pub/Tutorial/公考/公考-申论.md",
     "Pub/Tutorial/公考/公考-数量关系.md",
-    "Pub/Tutorial/公考/公务员的有关思考.md",
+    "Pub/Tutorial/公考/公考-资料分析.md",
     "Pub/Tutorial/公考/考公计划.md",
+    "Pub/Tutorial/公考/公考-申论.md",
+    "Pub/Tutorial/公考/公务员的有关思考.md",
     "Diary/Plan/ToDo.md",
     "Pub/Papers/毕业论文/毕业论文大纲.md",
     "Pub/Tutorial/公考/公考-判断推理-定义判断.md",
@@ -326,7 +327,6 @@
     "Pub/Tutorial/公考/公考-判断推理-逻辑判断.md",
     "outputPDF/公考-判断推理-逻辑判断.pdf",
     "Pub/Tutorial/公考/公考-判断推理-图形推理.md",
-    "Pub/Tutorial/公考/公考-资料分析.md",
     "outputPDF/公考-资料分析.pdf",
     "Pub/Tutorial/公考/公考-数字推理-广州.md",
     "Pub/Papers/毕业论文/致谢.md",
