@@ -172,7 +172,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "70a798a42b88ff1c",
@@ -313,6 +314,8 @@
   },
   "active": "c498b999ca659106",
   "lastOpenFiles": [
+    "outputPDF/公考-数量关系.pdf",
+    "Pics/Pasted image 20230315113131.png",
     "Pub/Tutorial/公考/考公计划.md",
     "Pub/Tutorial/公考/公考-数量关系.md",
     "Pub/Tutorial/公考/公考-资料分析.md",
@@ -349,7 +352,6 @@
     "Pics/Pasted image 20230302085635.png",
     "Pics/Pasted image 20230302084933.png",
     "Pics/Pasted image 20230302084918.png",
-    "Pics/Pasted image 20230302084832.png",
     "outputPDF/HPV舆论分析报告第二版.pdf",
     "Pub/Tutorial/Huggingface系列/HuggingFace基础教程(一).md",
     "Diary/Weekly/2023年02月20日-第8周.md",
