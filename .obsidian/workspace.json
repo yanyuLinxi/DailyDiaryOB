@@ -122,7 +122,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pub/Tutorial/公考/公考-数量关系.md"
+                "file": "Pub/Papers/毕业论文/毕业论文大纲.md"
               }
             }
           },
@@ -216,7 +216,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pub/Tutorial/公考/公考-数量关系.md",
+                "file": "Pub/Papers/毕业论文/毕业论文大纲.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,7 +233,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pub/Tutorial/公考/公考-数量关系.md",
+                "file": "Pub/Papers/毕业论文/毕业论文大纲.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -264,7 +264,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Pub/Tutorial/公考/公考-数量关系.md",
+                "file": "Pub/Papers/毕业论文/毕业论文大纲.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -312,12 +312,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c498b999ca659106",
+  "active": "6bb2c06b2e7e8c59",
   "lastOpenFiles": [
-    "outputPDF/公考-数量关系.pdf",
-    "Pics/Pasted image 20230315113131.png",
+    "Pub/Tutorial/公考/公考-数字推理-广州.md",
     "Pub/Tutorial/公考/考公计划.md",
     "Pub/Tutorial/公考/公考-数量关系.md",
+    "outputPDF/公考-数量关系.pdf",
+    "Pics/Pasted image 20230315113131.png",
     "Pub/Tutorial/公考/公考-资料分析.md",
     "Pub/Tutorial/公考/公考-申论.md",
     "Pub/Tutorial/公考/公务员的有关思考.md",
@@ -331,7 +332,6 @@
     "outputPDF/公考-判断推理-逻辑判断.pdf",
     "Pub/Tutorial/公考/公考-判断推理-图形推理.md",
     "outputPDF/公考-资料分析.pdf",
-    "Pub/Tutorial/公考/公考-数字推理-广州.md",
     "Pub/Papers/毕业论文/致谢.md",
     "Diary/Weekly/2023年03月06日-第10周.md",
     "Pub/Project/杨帆老师项目/HPV舆论分析报告第二版.md",
@@ -357,7 +357,6 @@
     "Diary/Weekly/2023年02月20日-第8周.md",
     "Diary/Yearly/2023成长思考.md",
     "Pub/Tutorial/Unsort/![[Pics/Pasted image 20230227100634.png]].md",
-    "Pub/Tutorial/Unsort/![[Pics",
     "Src/Temp/Weekly Summary.md",
     "Diary/Plan/Watch.md"
   ]
