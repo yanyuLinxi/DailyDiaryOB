@@ -4,6 +4,25 @@
     "type": "split",
     "children": [
       {
+        "id": "1025596f718f26fd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c498b999ca659106",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Diary/Yearly/2023成长思考.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
         "id": "4efb53543677576c",
         "type": "tabs",
         "children": [
@@ -83,12 +102,12 @@
             }
           },
           {
-            "id": "c498b999ca659106",
+            "id": "6a2bf6484b0dd148",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diary/Yearly/2023成长思考.md",
+                "file": "Diary/Weekly/2023年03月27日-第13周.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
