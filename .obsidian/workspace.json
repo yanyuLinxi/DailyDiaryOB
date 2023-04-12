@@ -52,7 +52,8 @@
               "pinned": true
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -102,7 +103,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "70a798a42b88ff1c",
@@ -127,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diary/Weekly/2023年03月27日-第13周.md"
+                "file": "Pub/Tutorial/Unsort/LLM调研.md"
               }
             }
           },
@@ -145,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diary/Weekly/2023年03月27日-第13周.md",
+                "file": "Pub/Tutorial/Unsort/LLM调研.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diary/Weekly/2023年03月27日-第13周.md",
+                "file": "Pub/Tutorial/Unsort/LLM调研.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +194,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Diary/Weekly/2023年03月27日-第13周.md",
+                "file": "Pub/Tutorial/Unsort/LLM调研.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -240,10 +242,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c498b999ca659106",
+  "active": "1df4a5c4d9c64afb",
   "lastOpenFiles": [
-    "Diary/Weekly/2023年04月10日-第15周.md",
     "Diary/Weekly/2023年03月27日-第13周.md",
+    "Diary/Weekly/2023年04月10日-第15周.md",
     "Pub/Tutorial/Unsort/LLM调研.md",
     "Pub/Tutorial/公考/考公计划.md",
     "Diary/Weekly/2023年03月06日-第10周.md",
