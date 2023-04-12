@@ -58,7 +58,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diary/Weekly/2023年04月10日-第15周.md",
+                "file": "Pub/Papers/Others/个人成果.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -66,7 +66,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pub/Tutorial/Unsort/LLM调研.md"
+                "file": "Pub/Papers/Others/个人成果.md"
               }
             }
           },
@@ -159,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pub/Tutorial/Unsort/LLM调研.md",
+                "file": "Pub/Papers/Others/个人成果.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pub/Tutorial/Unsort/LLM调研.md",
+                "file": "Pub/Papers/Others/个人成果.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Pub/Tutorial/Unsort/LLM调研.md",
+                "file": "Pub/Papers/Others/个人成果.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -254,10 +254,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1df4a5c4d9c64afb",
+  "active": "bb371fd67fc06921",
   "lastOpenFiles": [
-    "Diary/Weekly/2023年04月10日-第15周.md",
     "Pub/Tutorial/Unsort/LLM调研.md",
+    "Diary/Weekly/2023年04月10日-第15周.md",
     "Diary/Yearly/2023成长思考.md",
     "Diary/Weekly/2023年03月27日-第13周.md",
     "Pub/Tutorial/公考/公考-判断推理-图形推理.md",

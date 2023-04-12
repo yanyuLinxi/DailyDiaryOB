@@ -34,6 +34,12 @@ LLM（大语言模型）的背景调研：
 	7. prompt是什么。
 6. 低成本可训练的gpt的炼成（实操）。llama，PaLM，Chinchilla。
 
+整个文章组织架构：
+1. 介绍llm的timeline（结合实验室发表的文章。杨佳的两篇。洪瑶的论文、江帅的论文、自己的论文）介绍路径就是模型容量和问题容量。问题容量就是目标函数。模型+数据=》问题。模型和数据就是一个桶的两个板。只有两者匹配的时候，才能得到模型空间，去匹配问题空间
+2. 介绍gpt后时代的一些经典论文。gpt模型的改进和变化。
+3. 介绍未来研究方向（自己觉得感兴趣的研究方向，和代码安全相结合的方向）
+4. 介绍一个实践llama
+
 
 组织结构：
 1. LLM的timeline
@@ -82,9 +88,14 @@ LLM（大语言模型）的背景调研：
 6. [李沐：gpt发展史](https://www.bilibili.com/video/BV1AF411b7xQ/)
 7. [李沐：迁移学习](https://www.bilibili.com/video/BV1bq4y1y7tg/)
 8. [gpt1,2,3区别和对比](https://zhuanlan.zhihu.com/p/350017443)
+9. [大模型综述](https://mp.weixin.qq.com/s/7HRr55Md2Wl6EHQMGioumw)
+10. [chatgpt成长史](https://mp.weixin.qq.com/s/qiNzCQFieIkZFzox8F-FBw)
 
 论文：
 1. On the Role of Bidirectionality in Language Model Pre-Training。gpt和bert模型的比较。
+2. A comprehensive survey on pretrained foundation Models: A history from bert to chatgpt
 
 # TODO
 - [ ] 看视频CLIP🛫 2023-04-12 
+- [ ] 调研llmam的可行性🛫 2023-04-12 
+- [ ] 弄清楚GPT1、2、3的区别、instructgpt、t5等模型🛫 2023-04-12 
