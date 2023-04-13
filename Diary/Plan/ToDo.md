@@ -29,6 +29,7 @@ description does not include #watch
 - [x] 学习b-box。列学习计划。放弃学习 ✅ 2023-02-19
 - [ ] b站只看小动物、小品、人物传记。
 - [ ] 用视频记录自己每天的生活
+- [ ] 买礼物。护手霜、咖啡机、香薰机等。 #todo
 
 # Unsort ToWrite
 - [ ] obsidian搭建教程，介绍几个插件quickadd, tasks等 #towrite 
