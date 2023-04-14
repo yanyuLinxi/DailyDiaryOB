@@ -79,6 +79,8 @@ LLM（大语言模型）的背景调研：
 2. 
 
 
+
+
 资料：
 1. [# 从Word Embedding到Bert模型—自然语言处理中的预训练技术发展史](https://zhuanlan.zhihu.com/p/49271699)
 2. [# 乘风破浪的PTM：两年来预训练模型的技术进展](https://zhuanlan.zhihu.com/p/254821426)
@@ -99,9 +101,10 @@ LLM（大语言模型）的背景调研：
 3. Rethinking the Role of Demonstrations: What Makes In-Context Learning Work? 分析incontext-learning 的有效性。
 
 # TODO
-- [ ] 弄清楚要看哪些论文🛫 2023-04-13 
+- [x] 弄清楚要看哪些论文 🛫 2023-04-13 ✅ 2023-04-14
+- [x] 整体描述框架的搭建 🛫 2023-04-14 ✅ 2023-04-14
 - [ ] 看视频CLIP🛫 2023-04-12 
 - [ ] 调研llmam的可行性🛫 2023-04-12 
-- [ ] 弄清楚GPT1、2、3的区别🛫 2023-04-13 
+- [x] 弄清楚GPT1、2、3的区别 🛫 2023-04-13 ✅ 2023-04-14
 - [ ] instructgpt模型 🛫 2023-04-13 
 - [ ] t5等模型🛫 2023-04-12 

@@ -105,7 +105,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pub/Papers/GPT系列论文对比.md"
+                "file": "Pub/Tutorial/Unsort/LLM调研.md"
               }
             }
           }
@@ -207,7 +207,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pub/Papers/GPT系列论文对比.md",
+                "file": "Pub/Tutorial/Unsort/LLM调研.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -224,7 +224,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pub/Papers/GPT系列论文对比.md",
+                "file": "Pub/Tutorial/Unsort/LLM调研.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -254,7 +254,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Pub/Papers/GPT系列论文对比.md",
+                "file": "Pub/Tutorial/Unsort/LLM调研.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -302,10 +302,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b2133ad0ce6bcf8e",
+  "active": "1df4a5c4d9c64afb",
   "lastOpenFiles": [
-    "Pub/Tutorial/Unsort/LLM调研.md",
     "Pub/Papers/GPT系列论文对比.md",
+    "Pub/Tutorial/Unsort/LLM调研.md",
     "Pics/Pasted image 20230414153254.png",
     "Pics/Pasted image 20230414093150.png",
     "Src/Temp/论文阅读模板.md",
