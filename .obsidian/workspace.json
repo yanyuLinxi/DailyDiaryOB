@@ -74,7 +74,7 @@
                 "file": "Pub/Papers/GPT系列论文对比.md",
                 "mode": "source",
                 "backlinks": true,
-                "source": true
+                "source": false
               }
             }
           },
@@ -304,6 +304,7 @@
   },
   "active": "b2133ad0ce6bcf8e",
   "lastOpenFiles": [
+    "Pics/Pasted image 20230414153254.png",
     "Pics/Pasted image 20230414093150.png",
     "Src/Temp/论文阅读模板.md",
     "Pub/Papers/GPT系列论文对比.md",
@@ -348,7 +349,6 @@
     "Pics/Pasted image 20230302092418.png",
     "Pics/Pasted image 20230302085635.png",
     "Pics/Pasted image 20230302084933.png",
-    "Pics/Pasted image 20230302084918.png",
     "outputPDF/HPV舆论分析报告第二版.pdf"
   ]
 }
