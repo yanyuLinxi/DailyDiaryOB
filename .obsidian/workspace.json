@@ -53,12 +53,12 @@
             }
           },
           {
-            "id": "c36c62a27d4d7524",
+            "id": "b2133ad0ce6bcf8e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Src/Temp/论文阅读模板.md",
+                "file": "Pub/Papers/GPT系列论文对比.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -66,12 +66,12 @@
             }
           },
           {
-            "id": "b2133ad0ce6bcf8e",
+            "id": "c36c62a27d4d7524",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pub/Papers/GPT系列论文对比.md",
+                "file": "Src/Temp/论文阅读模板.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -105,7 +105,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -304,11 +304,11 @@
   },
   "active": "b2133ad0ce6bcf8e",
   "lastOpenFiles": [
+    "Pub/Tutorial/Unsort/LLM调研.md",
+    "Pub/Papers/GPT系列论文对比.md",
     "Pics/Pasted image 20230414153254.png",
     "Pics/Pasted image 20230414093150.png",
     "Src/Temp/论文阅读模板.md",
-    "Pub/Papers/GPT系列论文对比.md",
-    "Pub/Tutorial/Unsort/LLM调研.md",
     "Diary/Weekly/2023年04月10日-第15周.md",
     "Src/Temp/Weekly Summary.md",
     "Diary/Yearly/2023成长思考.md",
@@ -348,7 +348,6 @@
     "Pics/Pasted image 20230302104414.png",
     "Pics/Pasted image 20230302092418.png",
     "Pics/Pasted image 20230302085635.png",
-    "Pics/Pasted image 20230302084933.png",
     "outputPDF/HPV舆论分析报告第二版.pdf"
   ]
 }

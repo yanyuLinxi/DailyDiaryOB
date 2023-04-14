@@ -96,6 +96,7 @@ LLM（大语言模型）的背景调研：
 
 1. On the Role of Bidirectionality in Language Model Pre-Training。gpt和bert模型的比较。
 2. A comprehensive survey on pretrained foundation Models: A history from bert to chatgpt
+3. Rethinking the Role of Demonstrations: What Makes In-Context Learning Work? 分析incontext-learning 的有效性。
 
 # TODO
 - [ ] 弄清楚要看哪些论文🛫 2023-04-13 
