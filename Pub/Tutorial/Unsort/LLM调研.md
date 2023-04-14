@@ -92,6 +92,8 @@ LLM（大语言模型）的背景调研：
 10. [chatgpt成长史](https://mp.weixin.qq.com/s/qiNzCQFieIkZFzox8F-FBw)
 
 论文：
+读论文时，弄清楚改进。
+
 1. On the Role of Bidirectionality in Language Model Pre-Training。gpt和bert模型的比较。
 2. A comprehensive survey on pretrained foundation Models: A history from bert to chatgpt
 
