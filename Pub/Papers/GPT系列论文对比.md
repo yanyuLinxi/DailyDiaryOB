@@ -42,7 +42,10 @@ GPT的Decoder去除了一层的masked 注意力层。并在GPT2后，修改了No
 
 ## GPT3 in-context learning
 ![[Pics/Pasted image 20230414153254.png]]
-
+1. few-shot learning是不做训练的
+2. 对于分类问题。使用True或者False
+3. 对于生成式问题，采用Beam Search搜索一个答案。
+4. 数据量和计算量的关系。参考李沐视频1:18
 
 
 ## 参考资料
