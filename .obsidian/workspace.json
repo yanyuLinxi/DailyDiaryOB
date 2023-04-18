@@ -58,7 +58,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pub/Papers/GPT系列论文对比.md",
+                "file": "Diary/Yearly/2023成长思考.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pub/Papers/GPT系列论文对比.md"
+                "file": "Diary/Yearly/2023成长思考.md"
               }
             }
           }
@@ -173,8 +173,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "70a798a42b88ff1c",
@@ -207,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pub/Papers/GPT系列论文对比.md",
+                "file": "Diary/Yearly/2023成长思考.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -224,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pub/Papers/GPT系列论文对比.md",
+                "file": "Diary/Yearly/2023成长思考.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -254,7 +253,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Pub/Papers/GPT系列论文对比.md",
+                "file": "Diary/Yearly/2023成长思考.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -304,12 +303,12 @@
   },
   "active": "b2133ad0ce6bcf8e",
   "lastOpenFiles": [
-    "Pub/Tutorial/Unsort/LLM调研.md",
+    "Diary/Weekly/2023年04月10日-第15周.md",
     "Pub/Papers/GPT系列论文对比.md",
+    "Pub/Tutorial/Unsort/LLM调研.md",
     "Pics/Pasted image 20230414153254.png",
     "Pics/Pasted image 20230414093150.png",
     "Src/Temp/论文阅读模板.md",
-    "Diary/Weekly/2023年04月10日-第15周.md",
     "Src/Temp/Weekly Summary.md",
     "Diary/Yearly/2023成长思考.md",
     "Diary/Weekly/2023年03月27日-第13周.md",
