@@ -58,7 +58,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diary/Yearly/2023成长思考.md",
+                "file": "Diary/Weekly/2023年04月10日-第15周.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diary/Yearly/2023成长思考.md"
+                "file": "Diary/Weekly/2023年04月10日-第15周.md"
               }
             }
           }
@@ -206,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diary/Yearly/2023成长思考.md",
+                "file": "Diary/Weekly/2023年04月10日-第15周.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diary/Yearly/2023成长思考.md",
+                "file": "Diary/Weekly/2023年04月10日-第15周.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -253,7 +253,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Diary/Yearly/2023成长思考.md",
+                "file": "Diary/Weekly/2023年04月10日-第15周.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -303,14 +303,14 @@
   },
   "active": "b2133ad0ce6bcf8e",
   "lastOpenFiles": [
+    "Src/Temp/论文阅读模板.md",
     "Diary/Weekly/2023年04月10日-第15周.md",
+    "Diary/Yearly/2023成长思考.md",
     "Pub/Papers/GPT系列论文对比.md",
     "Pub/Tutorial/Unsort/LLM调研.md",
     "Pics/Pasted image 20230414153254.png",
     "Pics/Pasted image 20230414093150.png",
-    "Src/Temp/论文阅读模板.md",
     "Src/Temp/Weekly Summary.md",
-    "Diary/Yearly/2023成长思考.md",
     "Diary/Weekly/2023年03月27日-第13周.md",
     "Pub/Papers/Others/个人成果.md",
     "Pub/Life/一些有趣的句子.md",
