@@ -105,7 +105,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diary/Weekly/2023年04月10日-第15周.md"
+                "file": "Pub/Tutorial/Unsort/LLM调研.md"
               }
             }
           }
@@ -206,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diary/Weekly/2023年04月10日-第15周.md",
+                "file": "Pub/Tutorial/Unsort/LLM调研.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diary/Weekly/2023年04月10日-第15周.md",
+                "file": "Pub/Tutorial/Unsort/LLM调研.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -253,7 +253,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Diary/Weekly/2023年04月10日-第15周.md",
+                "file": "Pub/Tutorial/Unsort/LLM调研.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -301,10 +301,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b2133ad0ce6bcf8e",
+  "active": "1df4a5c4d9c64afb",
   "lastOpenFiles": [
-    "Src/Temp/论文阅读模板.md",
     "Diary/Weekly/2023年04月10日-第15周.md",
+    "Src/Temp/论文阅读模板.md",
     "Diary/Yearly/2023成长思考.md",
     "Pub/Papers/GPT系列论文对比.md",
     "Pub/Tutorial/Unsort/LLM调研.md",
