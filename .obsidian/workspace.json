@@ -123,19 +123,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "15e187c6c40a5687",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.2.7"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -339,12 +328,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "15e187c6c40a5687",
+  "active": "0ea3a71f77147d9d",
   "lastOpenFiles": [
+    "Diary/Weekly/2023年04月24日-第17周.md",
     "Diary/Yearly/2023成长思考.md",
     "Pub/Papers/Others/奇思妙想.md",
     "Diary/Weekly/2023年05月01日-第18周.md",
-    "Diary/Weekly/2023年04月24日-第17周.md",
     "Hypo/由浅入深了解Diffusion Model.md",
     "Pub/Papers/Others/个人成果.md",
     "Diary/Weekly/2023年04月10日-第15周.md",
