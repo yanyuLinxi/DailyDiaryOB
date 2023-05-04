@@ -123,8 +123,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "15e187c6c40a5687",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.2.7"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -168,6 +179,14 @@
             "type": "leaf",
             "state": {
               "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "03df6c3a11fa1186",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
               "state": {}
             }
           }
@@ -320,7 +339,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0ea3a71f77147d9d",
+  "active": "15e187c6c40a5687",
   "lastOpenFiles": [
     "Diary/Yearly/2023成长思考.md",
     "Pub/Papers/Others/奇思妙想.md",
