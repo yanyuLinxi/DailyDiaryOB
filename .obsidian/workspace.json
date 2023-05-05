@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pub/Life/对爱情的理解.md",
+                "file": "Diary/Weekly/2023年05月01日-第18周.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pub/Life/对爱情的理解.md"
+                "file": "Diary/Weekly/2023年05月01日-第18周.md"
               }
             }
           }
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pub/Life/对爱情的理解.md",
+                "file": "Diary/Weekly/2023年05月01日-第18周.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pub/Life/对爱情的理解.md",
+                "file": "Diary/Weekly/2023年05月01日-第18周.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +197,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Pub/Life/对爱情的理解.md",
+                "file": "Diary/Weekly/2023年05月01日-第18周.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -247,6 +247,7 @@
   },
   "active": "0ea3a71f77147d9d",
   "lastOpenFiles": [
+    "Pub/Life/对爱情的理解.md",
     "Pub/Papers/毕业论文/毕业论文大纲.md",
     "Diary/Yearly/2023成长思考.md",
     "Diary/Weekly/2023年05月01日-第18周.md",
@@ -276,7 +277,6 @@
     "Pub/Tutorial/公考/公考-资料分析.md",
     "Pub/Tutorial/公考/公考-申论.md",
     "Pub/Tutorial/公考/公务员的有关思考.md",
-    "Diary/Plan/ToDo.md",
     "outputPDF/公考-判断推理-定义判断.pdf",
     "outputPDF/公考-判断推理-类比推理.pdf",
     "outputPDF/公考-判断推理-逻辑判断.pdf",
