@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diary/Weekly/2023年05月01日-第18周.md",
+                "file": "Pub/Life/对爱情的理解.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diary/Weekly/2023年05月01日-第18周.md"
+                "file": "Pub/Life/对爱情的理解.md"
               }
             }
           }
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diary/Weekly/2023年05月01日-第18周.md",
+                "file": "Pub/Life/对爱情的理解.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diary/Weekly/2023年05月01日-第18周.md",
+                "file": "Pub/Life/对爱情的理解.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +197,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Diary/Weekly/2023年05月01日-第18周.md",
+                "file": "Pub/Life/对爱情的理解.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -247,6 +247,7 @@
   },
   "active": "0ea3a71f77147d9d",
   "lastOpenFiles": [
+    "Pub/Papers/毕业论文/毕业论文大纲.md",
     "Diary/Yearly/2023成长思考.md",
     "Diary/Weekly/2023年05月01日-第18周.md",
     "Diary/Weekly/2023年03月27日-第13周.md",
@@ -268,7 +269,6 @@
     "Pub/Papers/毕业论文/致谢.md",
     "Pub/Papers/社会公众对HPV疫苗的关注热点分析_基于新浪微博数据.md",
     "Pub/Project/杨帆老师项目/HPV舆论分析报告第二版.md",
-    "Pub/Papers/毕业论文/毕业论文大纲.md",
     "Pub/Tutorial/公考/公考-数字推理-广州.md",
     "Pub/Tutorial/公考/公考-数量关系.md",
     "outputPDF/公考-数量关系.pdf",
