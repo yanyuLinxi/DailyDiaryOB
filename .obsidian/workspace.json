@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diary/Weekly/2023年05月01日-第18周.md",
+                "file": "Pub/Life/对爱情的理解.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diary/Weekly/2023年05月01日-第18周.md"
+                "file": "Pub/Life/对爱情的理解.md"
               }
             }
           }
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diary/Weekly/2023年05月01日-第18周.md",
+                "file": "Pub/Life/对爱情的理解.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diary/Weekly/2023年05月01日-第18周.md",
+                "file": "Pub/Life/对爱情的理解.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +197,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Diary/Weekly/2023年05月01日-第18周.md",
+                "file": "Pub/Life/对爱情的理解.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -247,8 +247,8 @@
   },
   "active": "0ea3a71f77147d9d",
   "lastOpenFiles": [
-    "Diary/Yearly/2023成长思考.md",
     "Diary/Weekly/2023年05月01日-第18周.md",
+    "Diary/Yearly/2023成长思考.md",
     "Pub/Papers/Others/个人成果.md",
     "Pub/Life/对爱情的理解.md",
     "Pub/Papers/毕业论文/毕业论文大纲.md",
