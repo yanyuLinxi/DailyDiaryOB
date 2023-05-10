@@ -40,8 +40,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "405528d36ad5c327",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.2.8"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -245,7 +256,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0ea3a71f77147d9d",
+  "active": "405528d36ad5c327",
   "lastOpenFiles": [
     "Diary/Weekly/2023年05月01日-第18周.md",
     "Diary/Yearly/2023成长思考.md",
