@@ -29,33 +29,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0ea3a71f77147d9d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pub/Life/对爱情的理解.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "7736001a4d61e94e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Diary/Weekly/2023年05月01日-第18周.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "53ca4ced74fdce5c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -66,9 +40,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4cddceb4406ae67e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Diary/Weekly/2023年05月01日-第18周.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -136,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pub/Tutorial/Unsort/出国留学.md"
+                "file": "Diary/Weekly/2023年05月01日-第18周.md"
               }
             }
           }
@@ -144,8 +131,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "70a798a42b88ff1c",
@@ -178,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pub/Tutorial/Unsort/出国留学.md",
+                "file": "Diary/Weekly/2023年05月01日-第18周.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pub/Tutorial/Unsort/出国留学.md",
+                "file": "Diary/Weekly/2023年05月01日-第18周.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -225,7 +211,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Pub/Tutorial/Unsort/出国留学.md",
+                "file": "Diary/Weekly/2023年05月01日-第18周.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -273,12 +259,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "53ca4ced74fdce5c",
+  "active": "4cddceb4406ae67e",
   "lastOpenFiles": [
-    "Diary/Weekly/2023年05月01日-第18周.md",
-    "Pub/Life/对爱情的理解.md",
-    "Pub/Tutorial/Unsort/出国留学.md",
     "Diary/Yearly/2023成长思考.md",
+    "Diary/Weekly/2023年05月01日-第18周.md",
+    "Pub/Tutorial/Unsort/出国留学.md",
+    "Pub/Tutorial/公考/公务员的有关思考.md",
+    "Pub/Tutorial/公考/考公计划.md",
+    "Pub/Life/对爱情的理解.md",
     "Diary/Weekly/2023年05月08日-第19周.md",
     "Pics/15527779393(15527779393)_20230511093916.mp3",
     "Pub/Tutorial/Unsort/公务员所思所考.md",
@@ -299,12 +287,10 @@
     "Src/Temp/Weekly Summary.md",
     "Pub/Life/一些有趣的句子.md",
     "Pub/Tutorial/公考/公考-判断推理-图形推理.md",
-    "Pub/Tutorial/公考/考公计划.md",
     "Diary/Weekly/2023年03月06日-第10周.md",
     "Pub/Papers/社会公众对HPV疫苗的关注热点分析_基于新浪微博数据.md",
     "Pub/Project/杨帆老师项目/HPV舆论分析报告第二版.md",
     "Pub/Tutorial/公考/公考-数字推理-广州.md",
-    "Pub/Tutorial/公考/公考-数量关系.md",
     "outputPDF/公考-数量关系.pdf",
     "Pics/Pasted image 20230315113131.png",
     "outputPDF/公考-判断推理-定义判断.pdf",
