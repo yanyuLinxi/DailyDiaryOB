@@ -58,19 +58,6 @@
             }
           },
           {
-            "id": "8335a03b31fb549b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pub/Tutorial/Unsort/防止焦虑.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e06b2bd02d0876a3",
             "type": "leaf",
             "state": {
@@ -151,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pub/Tutorial/Unsort/防止焦虑.md"
+                "file": "Diary/Weekly/2023年05月01日-第18周.md"
               }
             }
           }
@@ -192,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pub/Tutorial/Unsort/防止焦虑.md",
+                "file": "Diary/Weekly/2023年05月01日-第18周.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pub/Tutorial/Unsort/防止焦虑.md",
+                "file": "Diary/Weekly/2023年05月01日-第18周.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -239,7 +226,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Pub/Tutorial/Unsort/防止焦虑.md",
+                "file": "Diary/Weekly/2023年05月01日-第18周.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -287,13 +274,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7736001a4d61e94e",
+  "active": "4cddceb4406ae67e",
   "lastOpenFiles": [
-    "Diary/Weekly/2023年05月01日-第18周.md",
     "Pub/Tutorial/Unsort/防止焦虑.md",
+    "Diary/Weekly/2023年05月01日-第18周.md",
+    "Pub/Tutorial/Unsort/和zoe的爱情.md",
     "Pub/Tutorial/Unsort/出国留学.md",
     "Src/Temp/Weekly Summary.md",
-    "Pub/Tutorial/Unsort/和zoe的爱情.md",
     "Diary/Yearly/2023成长思考.md",
     "Pub/Tutorial/公考/公务员的有关思考.md",
     "Pub/Tutorial/公考/考公计划.md",
