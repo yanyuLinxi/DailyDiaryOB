@@ -50,7 +50,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pub/Tutorial/Unsort/防止焦虑.md",
+                "file": "Pub/Papers/Others/个人成果.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diary/Weekly/2023年05月01日-第18周.md"
+                "file": "Pub/Papers/Others/个人成果.md"
               }
             }
           }
@@ -179,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diary/Weekly/2023年05月01日-第18周.md",
+                "file": "Pub/Papers/Others/个人成果.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diary/Weekly/2023年05月01日-第18周.md",
+                "file": "Pub/Papers/Others/个人成果.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,7 +226,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Diary/Weekly/2023年05月01日-第18周.md",
+                "file": "Pub/Papers/Others/个人成果.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -274,7 +274,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4cddceb4406ae67e",
+  "active": "7736001a4d61e94e",
   "lastOpenFiles": [
     "Pub/Tutorial/Unsort/防止焦虑.md",
     "Diary/Weekly/2023年05月01日-第18周.md",
