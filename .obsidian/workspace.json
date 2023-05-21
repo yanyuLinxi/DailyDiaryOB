@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pub/Tutorial/Unsort/出国留学.md",
+                "file": "Diary/Daily/2023-05-21 星期7.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pub/Tutorial/Unsort/出国留学.md"
+                "file": "Diary/Daily/2023-05-21 星期7.md"
               }
             }
           }
@@ -204,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pub/Tutorial/Unsort/出国留学.md",
+                "file": "Diary/Daily/2023-05-21 星期7.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,7 +221,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pub/Tutorial/Unsort/出国留学.md",
+                "file": "Diary/Daily/2023-05-21 星期7.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -251,7 +251,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Pub/Tutorial/Unsort/出国留学.md",
+                "file": "Diary/Daily/2023-05-21 星期7.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -301,8 +301,9 @@
   },
   "active": "7736001a4d61e94e",
   "lastOpenFiles": [
-    "Pub/Tutorial/Unsort/防止焦虑.md",
     "Pub/Tutorial/Unsort/出国留学.md",
+    "Diary/Daily/2023-05-21 星期7.md",
+    "Pub/Tutorial/Unsort/防止焦虑.md",
     "Diary/Yearly/2023成长思考.md",
     "Pub/Papers/毕业论文/毕业论文大纲.md",
     "Diary/Weekly/2023年05月01日-第18周.md",
@@ -330,7 +331,6 @@
     "Pics/Pasted image 20230414093150.png",
     "Pub/Life/一些有趣的句子.md",
     "Pub/Tutorial/公考/公考-判断推理-图形推理.md",
-    "Diary/Weekly/2023年03月06日-第10周.md",
     "outputPDF/公考-数量关系.pdf",
     "Pics/Pasted image 20230315113131.png",
     "outputPDF/公考-判断推理-定义判断.pdf",
