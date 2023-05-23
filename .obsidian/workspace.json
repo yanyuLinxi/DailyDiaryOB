@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       },
       {
         "id": "c93c582e17f59b7d",
@@ -102,7 +102,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pub/Tutorial/Unsort/出国留学.md",
+                "file": "Pub/Papers/毕业论文/致谢.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -166,7 +166,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "心流",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -191,7 +191,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "1d4352fe063bece2",
@@ -204,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pub/Tutorial/Unsort/如何做科研（读博）.md"
+                "file": "Pub/Papers/毕业论文/致谢.md"
               }
             }
           }
@@ -245,7 +246,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pub/Tutorial/Unsort/如何做科研（读博）.md",
+                "file": "Pub/Papers/毕业论文/致谢.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -262,7 +263,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pub/Tutorial/Unsort/如何做科研（读博）.md",
+                "file": "Pub/Papers/毕业论文/致谢.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -292,7 +293,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Pub/Tutorial/Unsort/如何做科研（读博）.md",
+                "file": "Pub/Papers/毕业论文/致谢.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -340,14 +341,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d86c10bfc9767990",
+  "active": "b21feb383964d4b2",
   "lastOpenFiles": [
+    "Diary/Weekly/2023年05月01日-第18周.md",
+    "Pub/Tutorial/Unsort/出国留学.md",
     "Diary/Yearly/2023成长思考.md",
     "Pub/Tutorial/Unsort/如何做科研（读博）.md",
     "Diary/Weekly/2023年05月22日-第21周.md",
-    "Diary/Weekly/2023年05月01日-第18周.md",
     "Pub/Tutorial/Unsort/认识自己.md",
-    "Pub/Tutorial/Unsort/出国留学.md",
     "Pub/Tutorial/Unsort/防止焦虑.md",
     "Diary/Daily/2023-05-21 星期7.md",
     "Pub/Papers/毕业论文/毕业论文大纲.md",
