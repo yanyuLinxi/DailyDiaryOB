@@ -76,7 +76,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pub/Tutorial/Unsort/出国留学.md",
+                "file": "Pub/Tutorial/Unsort/防止焦虑.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pub/Tutorial/Unsort/出国留学.md"
+                "file": "Pub/Tutorial/Unsort/防止焦虑.md"
               }
             }
           }
@@ -186,7 +186,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "70a798a42b88ff1c",
@@ -219,7 +220,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pub/Tutorial/Unsort/出国留学.md",
+                "file": "Pub/Tutorial/Unsort/防止焦虑.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -236,7 +237,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pub/Tutorial/Unsort/出国留学.md",
+                "file": "Pub/Tutorial/Unsort/防止焦虑.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -266,7 +267,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Pub/Tutorial/Unsort/出国留学.md",
+                "file": "Pub/Tutorial/Unsort/防止焦虑.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -316,8 +317,8 @@
   },
   "active": "b21feb383964d4b2",
   "lastOpenFiles": [
-    "Diary/Weekly/2023年05月01日-第18周.md",
     "Pub/Tutorial/Unsort/出国留学.md",
+    "Diary/Weekly/2023年05月01日-第18周.md",
     "Diary/Yearly/2023成长思考.md",
     "Pub/Tutorial/Unsort/防止焦虑.md",
     "Diary/Daily/2023-05-21 星期7.md",
