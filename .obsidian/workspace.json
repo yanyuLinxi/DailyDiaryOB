@@ -43,7 +43,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pub/Tutorial/Unsort/如何做科研（读博）.md",
+                "file": "Pub/Tutorial/Unsort/认识自己.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -51,7 +51,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "c93c582e17f59b7d",
@@ -204,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diary/Weekly/2023年05月22日-第21周.md"
+                "file": "Pub/Tutorial/Unsort/认识自己.md"
               }
             }
           }
@@ -245,7 +245,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diary/Weekly/2023年05月22日-第21周.md",
+                "file": "Pub/Tutorial/Unsort/认识自己.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -262,7 +262,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diary/Weekly/2023年05月22日-第21周.md",
+                "file": "Pub/Tutorial/Unsort/认识自己.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -292,7 +292,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Diary/Weekly/2023年05月22日-第21周.md",
+                "file": "Pub/Tutorial/Unsort/认识自己.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -340,11 +340,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f55d9c66c453301d",
+  "active": "d86c10bfc9767990",
   "lastOpenFiles": [
+    "Diary/Weekly/2023年05月22日-第21周.md",
     "Diary/Yearly/2023成长思考.md",
     "Diary/Weekly/2023年05月01日-第18周.md",
-    "Diary/Weekly/2023年05月22日-第21周.md",
     "Pub/Tutorial/Unsort/如何做科研（读博）.md",
     "Pub/Tutorial/Unsort/待反思.md",
     "Pub/Papers/毕业论文/致谢.md",
