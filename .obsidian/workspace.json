@@ -36,9 +36,22 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "f55d9c66c453301d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Diary/Weekly/2023年05月22日-第21周.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "c93c582e17f59b7d",
@@ -178,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pub/Tutorial/Unsort/出国留学.md"
+                "file": "Diary/Weekly/2023年05月22日-第21周.md"
               }
             }
           }
@@ -219,7 +232,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pub/Tutorial/Unsort/出国留学.md",
+                "file": "Diary/Weekly/2023年05月22日-第21周.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -236,7 +249,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pub/Tutorial/Unsort/出国留学.md",
+                "file": "Diary/Weekly/2023年05月22日-第21周.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -266,7 +279,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Pub/Tutorial/Unsort/出国留学.md",
+                "file": "Diary/Weekly/2023年05月22日-第21周.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -314,12 +327,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b21feb383964d4b2",
+  "active": "f55d9c66c453301d",
   "lastOpenFiles": [
     "Diary/Weekly/2023年05月01日-第18周.md",
+    "Diary/Weekly/2023年05月22日-第21周.md",
+    "Pub/Tutorial/Unsort/认识自己.md",
     "Pub/Tutorial/Unsort/出国留学.md",
     "Pub/Tutorial/Unsort/防止焦虑.md",
-    "Diary/Weekly/2023年05月22日-第21周.md",
     "Diary/Yearly/2023成长思考.md",
     "Diary/Daily/2023-05-21 星期7.md",
     "Pub/Papers/毕业论文/毕业论文大纲.md",
@@ -345,7 +359,6 @@
     "Src/Temp/论文阅读模板.md",
     "Pics/Pasted image 20230414153254.png",
     "Pics/Pasted image 20230414093150.png",
-    "Pub/Life/一些有趣的句子.md",
     "outputPDF/公考-数量关系.pdf",
     "Pics/Pasted image 20230315113131.png",
     "outputPDF/公考-判断推理-定义判断.pdf",
