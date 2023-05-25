@@ -38,6 +38,16 @@
             }
           },
           {
+            "id": "b959b56951b00e26",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.3"
+              }
+            }
+          },
+          {
             "id": "d86c10bfc9767990",
             "type": "leaf",
             "state": {
@@ -51,7 +61,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "c93c582e17f59b7d",
@@ -353,7 +363,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f55d9c66c453301d",
+  "active": "b959b56951b00e26",
   "lastOpenFiles": [
     "Pub/Tutorial/Unsort/待反思.md",
     "Diary/Weekly/2023年05月22日-第21周.md",
