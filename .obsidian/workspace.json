@@ -6,6 +6,7 @@
       {
         "id": "1025596f718f26fd",
         "type": "tabs",
+        "dimension": 26.041666666666668,
         "children": [
           {
             "id": "b2133ad0ce6bcf8e",
@@ -73,6 +74,7 @@
       {
         "id": "c93c582e17f59b7d",
         "type": "tabs",
+        "dimension": 73.95833333333334,
         "children": [
           {
             "id": "6f02412a39862d06",
@@ -80,7 +82,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pub/Tutorial/Unsort/出国留学.md",
+                "file": "Pub/Tutorial/Unsort/PhD面试准备.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -155,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pub/Tutorial/Unsort/出国留学.md"
+                "file": "Pub/Tutorial/Unsort/PhD面试准备.md"
               }
             }
           }
@@ -163,7 +165,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "70a798a42b88ff1c",
@@ -196,7 +199,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pub/Tutorial/Unsort/出国留学.md",
+                "file": "Pub/Tutorial/Unsort/PhD面试准备.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,7 +216,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pub/Tutorial/Unsort/出国留学.md",
+                "file": "Pub/Tutorial/Unsort/PhD面试准备.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -243,7 +246,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Pub/Tutorial/Unsort/出国留学.md",
+                "file": "Pub/Tutorial/Unsort/PhD面试准备.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -293,8 +296,8 @@
   },
   "active": "6f02412a39862d06",
   "lastOpenFiles": [
-    "Diary/Weekly/2023年05月22日-第21周.md",
     "Pub/Tutorial/Unsort/出国留学.md",
+    "Diary/Weekly/2023年05月22日-第21周.md",
     "Pub/Tutorial/Unsort/防止焦虑.md",
     "Pub/Tutorial/Unsort/PhD面试准备.md",
     "Diary/Yearly/2023成长思考.md",
