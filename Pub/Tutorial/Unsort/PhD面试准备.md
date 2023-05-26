@@ -77,3 +77,7 @@ toc: true
 机器学习是我们的使用手段，我们更加关注如何使用
 
 个人介绍：
+
+
+
+[博士高校求职，如何进行试讲及PPT模板 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/384426874)
