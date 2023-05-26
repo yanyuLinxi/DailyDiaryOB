@@ -81,3 +81,5 @@ toc: true
 
 
 [博士高校求职，如何进行试讲及PPT模板 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/384426874)
+
+[北美教职面试 第一轮Zoom 经典十问 (xiaohongshu.com)](https://www.xiaohongshu.com/explore/64556a300000000007038fd0)
