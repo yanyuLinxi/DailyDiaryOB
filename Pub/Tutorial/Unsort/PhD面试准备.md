@@ -79,11 +79,7 @@ toc: true
 
 我们最终采用了主动式的特征融合模型，让多个模型，分别提取序列信息、结构信息，并使用注意力机制进行主动的特征融合。让信息得到交互，同时避免了信息提取的难度。
 
-最终也达到了一个不错的效果。
-
-
-
-
+最终在变量误用、代码补全的相关任务上取得了不错的效果。
 
 
 ## 二进制分析
@@ -105,7 +101,11 @@ toc: true
 
 TODO：
 1. 二进制的一些具体任务
-2. 
+2. 看论文：
+	1. DeepDI
+	2. palmTree
+	3. Jtrans
+	4. SeqTrans: Automatic Vulnerability Fix Via Sequence to Sequence Learning
 
 
 
@@ -117,3 +117,5 @@ TODO：
 [博士高校求职，如何进行试讲及PPT模板 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/384426874)
 
 [北美教职面试 第一轮Zoom 经典十问 (xiaohongshu.com)](https://www.xiaohongshu.com/explore/64556a300000000007038fd0)
+
+

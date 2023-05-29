@@ -6,7 +6,7 @@
       {
         "id": "1025596f718f26fd",
         "type": "tabs",
-        "dimension": 26.041666666666668,
+        "dimension": 25.54278416347382,
         "children": [
           {
             "id": "b2133ad0ce6bcf8e",
@@ -74,7 +74,7 @@
       {
         "id": "c93c582e17f59b7d",
         "type": "tabs",
-        "dimension": 73.95833333333334,
+        "dimension": 74.45721583652617,
         "children": [
           {
             "id": "6f02412a39862d06",
@@ -96,6 +96,19 @@
               "type": "markdown",
               "state": {
                 "file": "Pub/Tutorial/Unsort/出国留学.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4e9a1bceccc9790e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pub/Tutorial/Unsort/PhD面试准备.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -129,7 +142,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -197,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pub/Tutorial/Unsort/出国留学.md"
+                "file": "Pub/Tutorial/Unsort/PhD面试准备.md"
               }
             }
           }
@@ -205,7 +218,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "70a798a42b88ff1c",
@@ -238,7 +252,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pub/Tutorial/Unsort/出国留学.md",
+                "file": "Pub/Tutorial/Unsort/PhD面试准备.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -255,7 +269,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pub/Tutorial/Unsort/出国留学.md",
+                "file": "Pub/Tutorial/Unsort/PhD面试准备.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -285,7 +299,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Pub/Tutorial/Unsort/出国留学.md",
+                "file": "Pub/Tutorial/Unsort/PhD面试准备.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -333,12 +347,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "bd7ed62d7a909bb7",
+  "active": "4e9a1bceccc9790e",
   "lastOpenFiles": [
-    "Pub/Tutorial/Unsort/PhD面试准备.md",
+    "Pub/Tutorial/Unsort/出国留学.md",
     "Pub/Tutorial/Unsort/防止焦虑.md",
     "Pub/Tutorial/Unsort/认识自己.md",
-    "Pub/Tutorial/Unsort/出国留学.md",
+    "Pub/Tutorial/Unsort/PhD面试准备.md",
     "Diary/Plan/Watch.md",
     "Pub/Tutorial/Unsort/Fuzz相关调研.md",
     "Diary/Weekly/2023年05月22日-第21周.md",
