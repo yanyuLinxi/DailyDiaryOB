@@ -121,7 +121,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diary/Yearly/2023成长思考.md",
+                "file": "Pub/Tutorial/Unsort/如何做科研（读博）.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -223,7 +223,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diary/Yearly/2023成长思考.md"
+                "file": "Diary/Weekly/2023年06月12日-第24周.md"
               }
             }
           }
@@ -264,7 +264,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diary/Yearly/2023成长思考.md",
+                "file": "Diary/Weekly/2023年06月12日-第24周.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -281,7 +281,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diary/Yearly/2023成长思考.md",
+                "file": "Diary/Weekly/2023年06月12日-第24周.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -311,7 +311,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Diary/Yearly/2023成长思考.md",
+                "file": "Diary/Weekly/2023年06月12日-第24周.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -359,19 +359,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4e9a1bceccc9790e",
+  "active": "7ef00ae2204f934d",
   "lastOpenFiles": [
-    "Pub/Tutorial/Unsort/PhD面试准备.md",
+    "Pub/Tutorial/Unsort/如何做科研（读博）.md",
     "Diary/Weekly/2023年06月12日-第24周.md",
+    "Diary/Yearly/2023成长思考.md",
+    "Pub/Tutorial/Unsort/PhD面试准备.md",
     "Pub/Papers/Others/个人成果.md",
     "Pub/Tutorial/Unsort/出国留学.md",
     "Pub/Tutorial/Unsort/防止焦虑.md",
     "Pub/Tutorial/Unsort/认识自己.md",
-    "Pub/Tutorial/Unsort/如何做科研（读博）.md",
     "Diary/Plan/Watch.md",
     "Pub/Tutorial/Unsort/Fuzz相关调研.md",
     "Diary/Weekly/2023年05月22日-第21周.md",
-    "Diary/Yearly/2023成长思考.md",
     "Pub/Tutorial/Unsort/待反思.md",
     "Pub/Tutorial/Unsort/托福考试.md",
     "Diary/Weekly/2023年05月01日-第18周.md",
