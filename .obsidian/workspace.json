@@ -6,7 +6,7 @@
       {
         "id": "1025596f718f26fd",
         "type": "tabs",
-        "dimension": 31.084656084656086,
+        "dimension": 31.084656084656082,
         "children": [
           {
             "id": "b2133ad0ce6bcf8e",
@@ -67,9 +67,19 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "7ef00ae2204f934d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.4"
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "c93c582e17f59b7d",
@@ -346,7 +356,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4e9a1bceccc9790e",
+  "active": "7ef00ae2204f934d",
   "lastOpenFiles": [
     "Pub/Papers/Others/个人成果.md",
     "Pub/Tutorial/Unsort/PhD面试准备.md",
