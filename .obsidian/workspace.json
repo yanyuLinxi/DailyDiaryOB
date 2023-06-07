@@ -223,7 +223,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diary/Weekly/2023年06月12日-第24周.md"
+                "file": "Pub/Tutorial/Unsort/如何做科研（读博）.md"
               }
             }
           }
@@ -264,7 +264,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diary/Weekly/2023年06月12日-第24周.md",
+                "file": "Pub/Tutorial/Unsort/如何做科研（读博）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -281,7 +281,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diary/Weekly/2023年06月12日-第24周.md",
+                "file": "Pub/Tutorial/Unsort/如何做科研（读博）.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -311,7 +311,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Diary/Weekly/2023年06月12日-第24周.md",
+                "file": "Pub/Tutorial/Unsort/如何做科研（读博）.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -359,10 +359,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7ef00ae2204f934d",
+  "active": "4e9a1bceccc9790e",
   "lastOpenFiles": [
-    "Pub/Tutorial/Unsort/如何做科研（读博）.md",
     "Diary/Weekly/2023年06月12日-第24周.md",
+    "Pub/Tutorial/Unsort/如何做科研（读博）.md",
     "Diary/Yearly/2023成长思考.md",
     "Pub/Tutorial/Unsort/PhD面试准备.md",
     "Pub/Papers/Others/个人成果.md",
