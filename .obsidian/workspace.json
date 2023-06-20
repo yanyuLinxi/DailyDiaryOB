@@ -129,6 +129,16 @@
             }
           },
           {
+            "id": "02dfa1b07888dcf2",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.5"
+              }
+            }
+          },
+          {
             "id": "73bd447fd043f88c",
             "type": "leaf",
             "state": {
@@ -155,7 +165,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -359,7 +369,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4e9a1bceccc9790e",
+  "active": "02dfa1b07888dcf2",
   "lastOpenFiles": [
     "Pub/Tutorial/Unsort/如何做科研（读博）.md",
     "Diary/Weekly/2023年06月12日-第24周.md",
