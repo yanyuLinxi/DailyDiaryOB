@@ -6,7 +6,6 @@
       {
         "id": "1025596f718f26fd",
         "type": "tabs",
-        "dimension": 77.39420935412026,
         "children": [
           {
             "id": "b2133ad0ce6bcf8e",
@@ -54,40 +53,12 @@
             }
           },
           {
-            "id": "f55d9c66c453301d",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Diary/Weekly/2023年05月22日-第21周.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "7ef00ae2204f934d",
+            "id": "0dd607c2b552598d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diary/Weekly/2023年06月12日-第24周.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7c45ab19fcdb35e2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Diary/Weekly/2023年06月12日-第24周.md",
+                "file": "Pub/Tutorial/Unsort/LLM创业.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,106 +66,7 @@
             }
           }
         ],
-        "currentTab": 5
-      },
-      {
-        "id": "c93c582e17f59b7d",
-        "type": "tabs",
-        "dimension": 22.605790645879733,
-        "children": [
-          {
-            "id": "6f02412a39862d06",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pub/Tutorial/Unsort/防止焦虑.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bd7ed62d7a909bb7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pub/Tutorial/Unsort/出国留学.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4e9a1bceccc9790e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Diary/Weekly/2023年06月12日-第24周.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "02dfa1b07888dcf2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Diary/Weekly/2023年06月12日-第24周.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "54344b518e0c82e4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Diary/Weekly/2023年06月12日-第24周.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "73bd447fd043f88c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pub/Tutorial/Unsort/防止焦虑.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b224a219e319e3bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pub/Tutorial/Unsort/出国留学.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -262,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diary/Weekly/2023年06月12日-第24周.md"
+                "file": "Pub/Tutorial/Unsort/LLM创业.md"
               }
             }
           }
@@ -303,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diary/Weekly/2023年06月12日-第24周.md",
+                "file": "Pub/Tutorial/Unsort/LLM创业.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -320,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diary/Weekly/2023年06月12日-第24周.md",
+                "file": "Pub/Tutorial/Unsort/LLM创业.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -350,7 +222,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Diary/Weekly/2023年06月12日-第24周.md",
+                "file": "Pub/Tutorial/Unsort/LLM创业.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -399,19 +271,25 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7c45ab19fcdb35e2",
+  "active": "0dd607c2b552598d",
   "lastOpenFiles": [
-    "Pub/Tutorial/Unsort/如何做科研（读博）.md",
+    "Pub/Tutorial/Unsort/认识自己.md",
+    "Pub/Tutorial/Unsort/LLM创业.md",
+    "Diary/Weekly/2023年05月22日-第21周.md",
     "Diary/Weekly/2023年06月12日-第24周.md",
+    "Pub/Tutorial/Unsort/防止焦虑.md",
+    "Hypo/风控中的复杂网络-学习路径图.md",
+    "Hypo/广告反作弊与各种安全——从入门到精（劝）通（退）.md",
+    "Hypo/阿里妈妈流量反作弊算法实践.md",
+    "Hypo/反作弊算法模式探索方案-实时在线应用版本 - JDBG - 主页面.md",
+    "Hypo/反作弊算法模式探索方案 - JDBG - 主页面.md",
+    "Pub/Tutorial/Unsort/如何做科研（读博）.md",
     "Diary/Yearly/2023成长思考.md",
     "Pub/Tutorial/Unsort/PhD面试准备.md",
     "Pub/Papers/Others/个人成果.md",
     "Pub/Tutorial/Unsort/出国留学.md",
-    "Pub/Tutorial/Unsort/防止焦虑.md",
-    "Pub/Tutorial/Unsort/认识自己.md",
     "Diary/Plan/Watch.md",
     "Pub/Tutorial/Unsort/Fuzz相关调研.md",
-    "Diary/Weekly/2023年05月22日-第21周.md",
     "Pub/Tutorial/Unsort/待反思.md",
     "Pub/Tutorial/Unsort/托福考试.md",
     "Diary/Weekly/2023年05月01日-第18周.md",
@@ -421,14 +299,8 @@
     "Pub/Tutorial/Unsort/和zoe的爱情.md",
     "Pics/业界工作.md",
     "Pub/Tutorial/Unsort/公务员所思所考.md",
-    "Src/Temp/Weekly Summary.md",
-    "Pub/Tutorial/公考/公务员的有关思考.md",
-    "Pub/Tutorial/公考/考公计划.md",
-    "Pub/Life/对爱情的理解.md",
-    "Diary/Weekly/2023年05月08日-第19周.md",
     "Pics/15527779393(15527779393)_20230511093916.mp3",
     "Pics/Pasted image 20230513103415.png",
-    "Diary/Weekly/2023年03月27日-第13周.md",
     "Pics/Pasted image 20230414153254.png",
     "Pics/Pasted image 20230414093150.png",
     "outputPDF/公考-数量关系.pdf",
