@@ -34,3 +34,12 @@ There are several projects on GitHub that leverage AI to change clothes in image
 These projects utilize various AI and machine learning techniques to change clothes in images or to enable virtual try-on experiences. They offer different functionalities ranging from modifying existing clothing in images to suggesting outfits and providing virtual try-on experiences.
 
 https://github.com/naklecha/fashionAI
+
+学习目标：
+1. 了解LLM+diffusion
+2. 知道目前都怎么用LLM创业的
+
+选择项目进行复现：
+1. 选择一个纯LLM项目，如搭建一个聊天机器人
+2. 选择一个diffusion项目，如何使用diffusion进行图片生成。
+先学这两个

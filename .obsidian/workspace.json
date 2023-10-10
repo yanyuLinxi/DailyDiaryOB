@@ -64,9 +64,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b2171dead462d574",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.14"
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -271,7 +281,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0dd607c2b552598d",
+  "active": "b2171dead462d574",
   "lastOpenFiles": [
     "Pub/Tutorial/Unsort/认识自己.md",
     "Pub/Tutorial/Unsort/LLM创业.md",
